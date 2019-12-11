@@ -61,6 +61,7 @@
             font-size: 1.5rem;
             font-weight: 650;
             color:tomato;
+            text-transform: uppercase;
         }
     </style>
 @endsection
