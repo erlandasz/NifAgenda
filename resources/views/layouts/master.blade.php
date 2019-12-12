@@ -20,19 +20,19 @@
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
             <li class="nav-item {{ Request::is('/') ? 'active' : '' }}">
-                <a class="nav-link" href="{{ url('/') }}">Welcome <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="{{ url('/') }}">Welcome</a>
             </li>
             <li class="nav-item {{ Request::is('speakers') ? 'active' : '' }}">
-                <a class="nav-link" href="{{ url('/speakers') }}">Speakers <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="{{ url('/speakers') }}">Speakers</a>
             </li>
             <li class="nav-item {{ Request::is('presenting-companies') ? 'active' : '' }}">
-                <a class="nav-link" href="{{ url('/presenting-companies') }}">Presenting Companies <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="{{ url('/presenting-companies') }}">Presenting Companies</a>
             </li>
             <li class="nav-item {{ Request::is('supporting-organisations') ? 'active' : '' }}">
-                <a class="nav-link" href="{{ url('/supporting-organisations') }}">Supporting Organisations <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="{{ url('/supporting-organisations') }}">Supporting Organisations</a>
             </li>
             <li class="nav-item {{ Request::is('organisers') ? 'active' : '' }}">
-                <a class="nav-link" href="{{ url('/organisers') }}">Organisers <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="{{ url('/organisers') }}">Organisers</a>
             </li>
         </ul>
     </div>

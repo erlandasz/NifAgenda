@@ -7,17 +7,17 @@
 
 .index__header-medium {
     font-size: $font__heading-medium;
-    font-weight: 550;
+    font-weight: $font__weight-xmedium;
 }
 
 .index__header-large {
     font-size: $font__heading-large;
-    font-weight: 650;
+    font-weight: $font__weight-bold;
 }
 
 .index__header-small {
     font-size: $font__heading-small;
-    font-weight: 300;
+    font-weight: $font__weight-thin;
     color: $color__page-headings;
     text-transform: uppercase;
     padding-top: 0;
@@ -44,15 +44,21 @@
 
 .section__headings {
     text-align: center;
-    font-size: 1.5rem;
-    font-weight: 600;
+    font-size: $font__size-headings;
+    font-weight: $font__weight-thick;
     text-transform: uppercase;
 }
 
 .supporter__muted-text {
-    color: grey;
+    color: $color_gray;
 
     &:hover {
-        color: $color__page-headings;
+        color: $color__tomato;
     }
+}
+
+.person__card-company {
+    background-color: $color__tomato;
+    line-height: 2;
+    color: $color__white;
 }

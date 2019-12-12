@@ -55,6 +55,12 @@
   color: tomato;
 }
 
+.person__card-company {
+  background-color: tomato;
+  line-height: 2;
+  color: white;
+}
+
 .main-content {
   max-width: 760px;
   padding-top: 0 !important;

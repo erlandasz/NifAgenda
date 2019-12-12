@@ -30,3 +30,5 @@ Route::get('/supporting-organisations', function () {
 Route::get('/organisers', function () {
     return view('organisers');
 });
+
+Route::resource('speakers', 'SpeakerController');

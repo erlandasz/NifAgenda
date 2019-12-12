@@ -1,8 +1,32 @@
-// Typography
-
-$color__page-headings: tomato;
-$color__page-text: black;
-
 $font__heading-small: 1rem;
 $font__heading-medium: 1.5rem;
 $font__heading-large: 1.8rem;
+
+// colors
+$color__tomato: tomato;
+$color__black: black;
+$color__gray: gray;
+$color__white: white;
+
+// font sizes:
+
+$font__size-small: 1rem;
+$font__size-medium: 1.5rem;
+$font__size-large: 1.8rem;
+
+// font weights
+
+$font__weight-thin: 300;
+$font__weight-medium: 500;
+$font__weight-xmedium: 550;
+$font__weight-thick: 600;
+$font__weight-bold: 650;
+
+$color__page-headings: $color__tomato;
+$color__page-text: $color__black;
+
+$font__size-headings: $font__size-medium;
+
+// images
+
+$background-image: url("../sachs_background.jpg");
