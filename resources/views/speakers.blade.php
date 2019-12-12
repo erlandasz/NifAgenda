@@ -4,5 +4,7 @@
 
 
 @section('content')
-    <h2 style='text-align:center;'>Keynote Speakers</h2>
+    <div class='container'>
+        <p class='section__headings index__first'>Keynote Speakers</p>
+    </div>
 @endsection

@@ -12,6 +12,7 @@
 
   </head>
   <body>
+    <div class='container-background'>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top mb-4">
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -36,10 +37,10 @@
         </ul>
     </div>
     </nav>
-    <div class='container'>
+    <div class='container main-content'>
         @yield('content')
     </div>
-
+    </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>

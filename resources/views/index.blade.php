@@ -6,7 +6,7 @@
 @section('content')
 
     <div class='container'>    
-        <p class='index__page-headings index__header-medium'>SACHS ASSOCIATES ARE DELIGHTED TO WELCOME YOU TO THE:</p>
+        <p class='index__page-headings index__header-medium index__first-lines'>SACHS ASSOCIATES ARE DELIGHTED TO WELCOME YOU TO THE:</p>
 
         <p class='index__page-headings index__header-large remove-margin-bot'>12th annual <br> neuroscience innovation forum<br></p>
         <p class='index__header-small'>for business development, licensing & investment</p>
@@ -16,7 +16,7 @@
     </div>
 
     <div class='container info__text-block'>
-        <p class='headingz'>
+        <p >
             Back for its 3rd Annual edition, this global bio-pharma industry forum addresses through its conference programme the maing challenges for 2020 in investment, partnering and alliance
             management. Key players contribute their insights in panels which cover the macro picture as well as innovation in the different therapeutic sectors
         </p>

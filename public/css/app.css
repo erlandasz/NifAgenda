@@ -20,11 +20,58 @@
   text-transform: uppercase;
   padding-top: 0;
   margin-top: 0;
-  line-height: 10px;
+  line-height: 15px;
 }
 
 .remove-margin-bot {
   margin-bottom: 0;
   padding-bottom: 0;
+}
+
+.index__first-lines {
+  padding-top: 25px;
+}
+
+.header-link {
+  text-transform: lowercase !important;
+}
+
+.in-text-link {
+  color: tomato;
+}
+
+.section__headings {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.supporter__muted-text {
+  color: grey;
+}
+
+.supporter__muted-text:hover {
+  color: tomato;
+}
+
+.main-content {
+  max-width: 760px;
+  padding-top: 0 !important;
+}
+
+body {
+  margin-top: -25px;
+  padding-top: 0;
+}
+
+.container-background {
+  background-image: url(/images/sachs_background.jpg?21dd923ec4918d1e2b494671616c30b9);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.main-content {
+  background-color: white;
 }
 
