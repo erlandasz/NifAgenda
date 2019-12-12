@@ -6,11 +6,12 @@
 @section('content')
 
     <div class='container'>    
-        <p class='index__welcome-title'>SACHS ASSOCIATES ARE DELIGHTED TO WELCOME YOU TO THE:</p>
+        <p class='index__page-headings index__header-medium'>SACHS ASSOCIATES ARE DELIGHTED TO WELCOME YOU TO THE:</p>
 
-        <p class='index__welcome-title'><span>12th annual <br> neuroscience innovation forum</span><br>for business development, licensing & investment</p>
+        <p class='index__page-headings index__header-large remove-margin-bot'>12th annual <br> neuroscience innovation forum<br></p>
+        <p class='index__header-small'>for business development, licensing & investment</p>
 
-        <p class='index__welcome-title'>12th january, 2020 <br> marines' memorial club <br> san francisco, usa</p>
+        <p class='index__page-headings index__header-medium'>12th january, 2020 <br> marines' memorial club <br> san francisco, usa</p>
         
     </div>
 
@@ -27,7 +28,7 @@
     </div>
 
     <div class='container' >
-        <p class='index__welcome-title'>General information</p>
+        <p class='index__page-headings index__header-medium'>General information</p>
     </div>
 
     <div class='container info__text-block'>
@@ -45,7 +46,7 @@
     </div>
 
     <div class='container '>
-        <p class='index__welcome-title'>request for presentations</p>
+        <p class='index__page-headings index__header-medium'>request for presentations</p>
     </div>
 
     <div class='container info__text-block'>
@@ -56,12 +57,5 @@
             Please note that we DO NOT have copies of the slides that are shown during the conference.
         </p>
     </div>
-    <style scoped>
-        .index__welcome-title {
-            font-size: 1.5rem;
-            font-weight: 650;
-            color:tomato;
-            text-transform: uppercase;
-        }
-    </style>
+
 @endsection

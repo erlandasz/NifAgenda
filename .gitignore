@@ -3,6 +3,7 @@
 /public/storage
 /storage/*.key
 /vendor
+/tmpnodejsnpm-cache
 .env
 .env.backup
 .phpunit.result.cache

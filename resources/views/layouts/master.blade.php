@@ -7,20 +7,19 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link rel='stylesheet' type='text/css' href='{{ asset('css/style.css') }}'
-    <title>@yield('title')</title>
+    <link rel='stylesheet' type='text/css' href='{{ asset('css/app.css') }}'
+    {{-- <title>@yield('title')</title> --}}
 
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top mb-4">
-    <a class="navbar-brand" href="/">3rd NIF</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
             <li class="nav-item {{ Request::is('/') ? 'active' : '' }}">
-                <a class="nav-link" href="{{ url('/') }}">About 3rd NIF <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="{{ url('/') }}">Welcome <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item {{ Request::is('speakers') ? 'active' : '' }}">
                 <a class="nav-link" href="{{ url('/speakers') }}">Speakers <span class="sr-only">(current)</span></a>

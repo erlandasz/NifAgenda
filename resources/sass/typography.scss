@@ -1,0 +1,31 @@
+@import "variables";
+
+.index__page-headings {
+    color: $color__page-headings;
+    text-transform: uppercase;
+}
+
+.index__header-medium {
+    font-size: $font__heading-medium;
+    font-weight: 550;
+}
+
+.index__header-large {
+    font-size: $font__heading-large;
+    font-weight: 650;
+}
+
+.index__header-small {
+    font-size: $font__heading-small;
+    font-weight: 300;
+    color: $color__page-headings;
+    text-transform: uppercase;
+    padding-top: 0;
+    margin-top: 0;
+    line-height: 10px;
+}
+
+.remove-margin-bot {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
