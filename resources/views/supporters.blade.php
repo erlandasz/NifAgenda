@@ -6,7 +6,7 @@
 @section('content')
 
     <div class='container'>
-        <p class='section__headings index__first'>
+        <p class='section__headings index__first-lines'>
             bronze sponsor
         </p>
     </div>

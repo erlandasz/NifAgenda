@@ -9,3 +9,9 @@
 .main-content {
     background-color: white;
 }
+
+.card-img {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 50px;
+}
