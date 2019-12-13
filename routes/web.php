@@ -32,3 +32,4 @@ Route::get('/organisers', function () {
 });
 
 Route::resource('speakers', 'SpeakerController');
+Route::resource('presenters', 'PresenterController');
