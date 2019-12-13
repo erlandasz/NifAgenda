@@ -50,7 +50,7 @@
 }
 
 .supporter__muted-text {
-    color: $color_gray;
+    color: $color__gray;
 
     &:hover {
         color: $color__tomato;
@@ -61,4 +61,14 @@
     background-color: $color__tomato;
     line-height: 2;
     color: $color__white;
+}
+
+.non-opaque-person {
+    background-color: $color__white;
+    opacity: 1;
+}
+.person__card-info {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 50px;
 }

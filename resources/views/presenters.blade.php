@@ -4,5 +4,5 @@
 
 
 @section('content')
-    lots n lots of presenters
+    loled
 @endsection

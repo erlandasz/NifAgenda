@@ -14,7 +14,7 @@ class SpeakerController extends Controller
      */
     public function index()
     {
-        $speakers = Speaker::latest()->paginate(5);
+        $speakers = Speaker::latest()->paginate(100);
 
         return view('speakers',compact('speakers'))
             ->with('i', (request()->input('page', 1) - 1) * 5);
