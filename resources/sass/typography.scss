@@ -72,3 +72,22 @@
     position: sticky;
     top: 50px;
 }
+
+.presenter__left-title {
+    font-weight: $font__weight-xmedium;
+    text-transform: uppercase;
+    font-size: $font__size-xsmall;
+}
+
+.presenter__left-subtitle {
+    font-size: $font__size-xsmall;
+}
+.presenter__capitalize {
+    text-transform: capitalize;
+}
+.presenter__right-title {
+    text-transform: uppercase;
+    font-weight: $font__weight-xmedium;
+    font-size: $font__size-small;
+    color: $color__page-headings;
+}

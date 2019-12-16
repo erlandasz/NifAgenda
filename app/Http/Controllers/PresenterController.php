@@ -14,7 +14,7 @@ class PresenterController extends Controller
      */
     public function index()
     {
-        $speakers = Speaker::latest()->paginate(100);
+        $presenters = Presenter::latest()->paginate(100);
 
         return view('presenters',compact('presenters'))
             ->with('i', (request()->input('page', 1) - 1) * 5);
