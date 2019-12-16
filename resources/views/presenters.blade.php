@@ -8,7 +8,7 @@
         <div class="card mb-3">
             <div class="row no-gutters">
                 <div class="col-md-4 border-right">
-                    <img src="/images/presenters/{{$presenter->logo}}/logo.png" class="card-img mt-4" alt="...">
+                    <img src="/images/presenters/{{$presenter->logo}}/logo.png" class="card-img mt-4 presenter__img" alt="...">
                     <p><span class='presenter__left-title'>ADDRESS</span><br />
                     <span class='presenter__left-subtitle'>{{ $presenter->address }}</span></p>
                     <p><span class='presenter__left-title'>WEBSITE</span><br />
@@ -32,9 +32,7 @@
                         <p class="card-text">
                             <p class='presenter__right-title'>company profile</p>
                             <p>{!! $presenter->profile !!}</p>
-                            <p class='presenter__right-title'>management team</p>
                             <p>{!! $presenter->management !!}</p>
-                            <p class='presenter__right-title'>pipeline</p>
                             <p>{!! $presenter->pipeline !!}</p>
                         ​</p>
                     </div>
