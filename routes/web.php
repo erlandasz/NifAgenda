@@ -31,5 +31,9 @@ Route::get('/organisers', function () {
     return view('organisers');
 });
 
+Route::get('/timetable', function () {
+    return view('timetable');
+});
+
 Route::resource('speakers', 'SpeakerController');
 Route::resource('presenting-companies', 'PresenterController');

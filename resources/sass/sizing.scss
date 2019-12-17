@@ -9,3 +9,39 @@ body {
     margin-top: -25px;
     padding-top: 0;
 }
+.timetable__list {
+    // margin-left: -25px;
+    // margin-right: -25px;
+}
+.timetable__time {
+    float: left;
+    text-align: center;
+}
+
+.timetable__header {
+    // float: right;
+}
+.timetable__room {
+    float: right;
+}
+.timetable__list div {
+    // padding-top: 0.5rem;
+}
+
+.timetable__list .row {
+    border-bottom: tomato dashed 1px;
+}
+
+.timetable__highlighted-container-1 {
+    background-color: $timetable__panel-background;
+    color: $color__white;
+    // padding-bottom: 0.5rem;
+}
+.timetable__highlighted-container-2 {
+    background-color: darken(
+        $color: $timetable__panel-background,
+        $amount: 15%
+    );
+    color: $color__white;
+    // padding-bottom: 0.5rem;
+}

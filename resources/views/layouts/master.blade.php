@@ -13,6 +13,9 @@
   </head>
   <body>
     <div class='container-background'>
+    <div class='banner-container'>
+        <img src="/images/banner.png" class="img-fluid" alt="Banner">
+    </div>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top mb-4">
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -33,6 +36,9 @@
             </li>
             <li class="nav-item {{ Request::is('organisers') ? 'active' : '' }}">
                 <a class="nav-link" href="{{ url('/organisers') }}">Organisers</a>
+            </li>
+            <li class="nav-item {{ Request::is('timetable') ? 'active' : '' }}">
+                <a class="nav-link" href="{{ url('/timetable') }}">Timetable</a>
             </li>
         </ul>
     </div>

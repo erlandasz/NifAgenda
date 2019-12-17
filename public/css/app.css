@@ -93,6 +93,41 @@
   color: tomato;
 }
 
+.timetable__header {
+  font-weight: 550;
+}
+
+.panel__paragraph-bold {
+  font-weight: 550;
+}
+
+.panel__name {
+  font-size: 1.2rem;
+  font-weight: 550;
+}
+
+.panel__small-text {
+  font-style: italic;
+}
+
+.panel__cochair {
+  margin-top: -15px;
+}
+
+.timetable__time {
+  font-weight: 550;
+}
+
+.timeteable__room {
+  font-size: 0.8rem;
+}
+
+.timetable__time-span {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 150px;
+}
+
 .main-content {
   max-width: 760px;
   padding-top: 0 !important;
@@ -101,6 +136,29 @@
 body {
   margin-top: -25px;
   padding-top: 0;
+}
+
+.timetable__time {
+  float: left;
+  text-align: center;
+}
+
+.timetable__room {
+  float: right;
+}
+
+.timetable__list .row {
+  border-bottom: tomato dashed 1px;
+}
+
+.timetable__highlighted-container-1 {
+  background-color: mediumvioletred;
+  color: white;
+}
+
+.timetable__highlighted-container-2 {
+  background-color: #820e57;
+  color: white;
 }
 
 .container-background {
@@ -122,5 +180,9 @@ body {
 
 .presenter__img {
   background-color: white;
+}
+
+.banner-container {
+  padding-top: 25px;
 }
 

@@ -91,3 +91,32 @@
     font-size: $font__size-small;
     color: $color__page-headings;
 }
+.timetable__header {
+    font-weight: $font__weight-xmedium;
+}
+
+.panel__paragraph-bold {
+    font-weight: $font__weight-xmedium;
+}
+.panel__name {
+    font-size: $font__size-xmedium;
+    font-weight: $font__weight-xmedium;
+}
+
+.panel__small-text {
+    font-style: italic;
+}
+.panel__cochair {
+    margin-top: -15px;
+}
+.timetable__time {
+    font-weight: $font__weight-xmedium;
+}
+.timeteable__room {
+    font-size: $font__size-xsmall;
+}
+.timetable__time-span {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 150px;
+}
