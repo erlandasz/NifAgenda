@@ -5,6 +5,8 @@
 
 @section('content')
 
+    <div class='index-container'>
+
     <div class='container'>
         <p class='section__headings index__first-lines'>
             bronze sponsor
@@ -284,5 +286,6 @@ Recent IPO transactions: ABIVAX (Euronext Paris - €60m), OSE Pharma (Euronext 
         <div class="card-footer">
             <small class="text-muted"><a href='http://www.tiberendstrategicadvisors.com/' class='supporter__muted-text'>tiberendstrategicadvisors.com</a></small>
         </div>
+    </div>
     </div>
 @endsection

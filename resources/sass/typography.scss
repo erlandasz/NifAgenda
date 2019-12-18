@@ -91,32 +91,32 @@
     font-size: $font__size-small;
     color: $color__page-headings;
 }
-.timetable__header {
-    font-weight: $font__weight-xmedium;
+.timetable__modal-button {
+    color: $color__gray;
+    text-decoration: underline tomato;
+
+    &:hover {
+        text-decoration: underline darken($color: tomato, $amount: 25%);
+        color: darken($color: $color__gray, $amount: 25%);
+    }
 }
 
-.panel__paragraph-bold {
-    font-weight: $font__weight-xmedium;
-}
-.panel__name {
-    font-size: $font__size-xmedium;
-    font-weight: $font__weight-xmedium;
-}
-
-.panel__small-text {
+.timetable__text-italic {
     font-style: italic;
 }
-.panel__cochair {
-    margin-top: -15px;
-}
-.timetable__time {
-    font-weight: $font__weight-xmedium;
-}
-.timeteable__room {
+
+.timetable__split-pr {
     font-size: $font__size-xsmall;
 }
-.timetable__time-span {
-    position: -webkit-sticky;
-    position: sticky;
-    top: 150px;
+.timetable__no-break {
+    white-space: nowrap;
+}
+.timetable__split-pr h6 {
+    overflow: hidden;
+    max-height: 45px;
+}
+.timetable__split-pr p {
+    overflow: auto;
+    max-height: 100px;
+    font-size: $font__size-xsmall;
 }

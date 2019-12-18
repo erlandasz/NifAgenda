@@ -4,7 +4,7 @@
 
 
 @section('content')
-
+    <div class='index-container'>
     <div class='container'>    
         <p class='index__page-headings index__header-medium index__first-lines'>SACHS ASSOCIATES ARE DELIGHTED TO WELCOME YOU TO THE:</p>
 
@@ -57,5 +57,5 @@
             Please note that we DO NOT have copies of the slides that are shown during the conference.
         </p>
     </div>
-
+    </div>
 @endsection

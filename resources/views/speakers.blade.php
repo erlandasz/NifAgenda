@@ -4,6 +4,7 @@
 
 
 @section('content')
+    <div class='index-container'>
     <div class='container'>
         <p class='section__headings index__first-lines'>Keynote Speakers</p>
     </div>
@@ -74,4 +75,5 @@
     @empty
         <p> no speakers </p>
     @endforelse
+    </div>
 @endsection

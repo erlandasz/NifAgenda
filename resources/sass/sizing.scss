@@ -9,39 +9,43 @@ body {
     margin-top: -25px;
     padding-top: 0;
 }
-.timetable__list {
-    // margin-left: -25px;
-    // margin-right: -25px;
-}
-.timetable__time {
-    float: left;
-    text-align: center;
+.timetable-card {
+    margin-left: -15px;
+    margin-right: -15px;
 }
 
-.timetable__header {
-    // float: right;
+.timetable__card-general {
+    background-color: $color__card-general;
+
+    &:hover {
+        background-color: lighten($color: $color__card-general, $amount: 15%);
+    }
 }
-.timetable__room {
-    float: right;
+.timetable__card-speech {
+    background-color: $color__card-speech;
+
+    &:hover {
+        background-color: lighten($color: $color__card-speech, $amount: 15%);
+    }
 }
-.timetable__list div {
-    // padding-top: 0.5rem;
+.timetable__card-panel {
+    background-color: $color__card-panel;
+
+    &:hover {
+        background-color: lighten($color: $color__card-panel, $amount: 15%);
+    }
+}
+.timetable__card-pr {
+    background-color: $color__card-pr;
+
+    &:hover {
+        background-color: lighten($color: $color__card-pr, $amount: 15%);
+    }
 }
 
-.timetable__list .row {
-    border-bottom: tomato dashed 1px;
+.timetable__list .card {
+    border-radius: 0 !important;
 }
-
-.timetable__highlighted-container-1 {
-    background-color: $timetable__panel-background;
-    color: $color__white;
-    // padding-bottom: 0.5rem;
-}
-.timetable__highlighted-container-2 {
-    background-color: darken(
-        $color: $timetable__panel-background,
-        $amount: 15%
-    );
-    color: $color__white;
-    // padding-bottom: 0.5rem;
+.timetable__card-panel :hover {
+    cursor: pointer;
 }

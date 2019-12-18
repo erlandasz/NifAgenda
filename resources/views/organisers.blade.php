@@ -4,6 +4,7 @@
 
 
 @section('content')
+<div class='index-container'>
     
     <div class='container'>
         <p class='index__page-headings index__first-lines index__header-medium remove-margin-bot'>
@@ -92,5 +93,6 @@
         <p>
             If your company is interested in exhibiting or sponsorship opportunities, please call Silvia Kar on +44 203 463 4890 or email <a class='in-text-link' href='mailto:Silvia@sachsforum.com'>Silvia@sachsforum.com</a>.
         </p>
+    </div>
     </div>
 @endsection

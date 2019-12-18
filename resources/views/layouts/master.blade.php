@@ -34,11 +34,11 @@
             <li class="nav-item {{ Request::is('supporting-organisations') ? 'active' : '' }}">
                 <a class="nav-link" href="{{ url('/supporting-organisations') }}">Supporting Organisations</a>
             </li>
-            <li class="nav-item {{ Request::is('organisers') ? 'active' : '' }}">
-                <a class="nav-link" href="{{ url('/organisers') }}">Organisers</a>
-            </li>
             <li class="nav-item {{ Request::is('timetable') ? 'active' : '' }}">
                 <a class="nav-link" href="{{ url('/timetable') }}">Timetable</a>
+            </li>
+            <li class="nav-item {{ Request::is('organisers') ? 'active' : '' }}">
+                <a class="nav-link" href="{{ url('/organisers') }}">Organisers</a>
             </li>
         </ul>
     </div>
@@ -46,7 +46,11 @@
     <div class='container main-content'>
         @yield('content')
     </div>
+        <div class='banner-container'>
+            <img src="/images/banner.png" class="img-fluid" alt="Banner">
+        </div>
     </div>
+    
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>

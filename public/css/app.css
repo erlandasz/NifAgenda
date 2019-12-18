@@ -93,39 +93,39 @@
   color: tomato;
 }
 
-.timetable__header {
-  font-weight: 550;
+.timetable__modal-button {
+  color: gray;
+  -webkit-text-decoration: underline tomato;
+          text-decoration: underline tomato;
 }
 
-.panel__paragraph-bold {
-  font-weight: 550;
+.timetable__modal-button:hover {
+  -webkit-text-decoration: underline #c71e00;
+          text-decoration: underline #c71e00;
+  color: #404040;
 }
 
-.panel__name {
-  font-size: 1.2rem;
-  font-weight: 550;
-}
-
-.panel__small-text {
+.timetable__text-italic {
   font-style: italic;
 }
 
-.panel__cochair {
-  margin-top: -15px;
-}
-
-.timetable__time {
-  font-weight: 550;
-}
-
-.timeteable__room {
+.timetable__split-pr {
   font-size: 0.8rem;
 }
 
-.timetable__time-span {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 150px;
+.timetable__no-break {
+  white-space: nowrap;
+}
+
+.timetable__split-pr h6 {
+  overflow: hidden;
+  max-height: 45px;
+}
+
+.timetable__split-pr p {
+  overflow: auto;
+  max-height: 100px;
+  font-size: 0.8rem;
 }
 
 .main-content {
@@ -138,27 +138,49 @@ body {
   padding-top: 0;
 }
 
-.timetable__time {
-  float: left;
-  text-align: center;
+.timetable-card {
+  margin-left: -15px;
+  margin-right: -15px;
 }
 
-.timetable__room {
-  float: right;
+.timetable__card-general {
+  background-color: #eee5bf;
 }
 
-.timetable__list .row {
-  border-bottom: tomato dashed 1px;
+.timetable__card-general:hover {
+  background-color: #fefefb;
 }
 
-.timetable__highlighted-container-1 {
-  background-color: mediumvioletred;
-  color: white;
+.timetable__card-speech {
+  background-color: #d1ffc6;
 }
 
-.timetable__highlighted-container-2 {
-  background-color: #820e57;
-  color: white;
+.timetable__card-speech:hover {
+  background-color: white;
+}
+
+.timetable__card-panel {
+  background-color: #e2d0be;
+}
+
+.timetable__card-panel:hover {
+  background-color: #faf6f3;
+}
+
+.timetable__card-pr {
+  background-color: violet;
+}
+
+.timetable__card-pr:hover {
+  background-color: #f7c5f7;
+}
+
+.timetable__list .card {
+  border-radius: 0 !important;
+}
+
+.timetable__card-panel :hover {
+  cursor: pointer;
 }
 
 .container-background {
@@ -168,6 +190,10 @@ body {
 }
 
 .main-content {
+  background-color: white;
+}
+
+.index-container {
   background-color: white;
 }
 
