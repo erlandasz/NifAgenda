@@ -37,6 +37,9 @@
             <li class="nav-item {{ Request::is('timetable') ? 'active' : '' }}">
                 <a class="nav-link" href="{{ url('/timetable') }}">Timetable</a>
             </li>
+            <li class='nav-item {{ Request::is('presentingtimetable') ? 'active' : '' }}'>
+                <a class='nav-link' href='{{ url('/pr-timetable') }}'>Presenting Timetable</a>
+            </li>
             <li class="nav-item {{ Request::is('organisers') ? 'active' : '' }}">
                 <a class="nav-link" href="{{ url('/organisers') }}">Organisers</a>
             </li>
@@ -46,9 +49,10 @@
     <div class='container main-content'>
         @yield('content')
     </div>
-        <div class='banner-container'>
-            <img src="/images/banner.png" class="img-fluid" alt="Banner">
-        </div>
+        
+    @component('layouts.footer')
+    @endcomponent
+
     </div>
     
     <!-- Optional JavaScript -->

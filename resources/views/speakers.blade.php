@@ -31,7 +31,7 @@
     <div class="card mb-3">
         <div class="row no-gutters">
             <div class="col-md-4">
-                <img src="{{URL::asset('/images/speakers/Jonathan Javitt PIC.jpg')}}" class="card-img mt-4" alt="...">
+                <img src="{{URL::asset('/images/speakers/Jonathan Javitt PIC.jpg')}}" class="card-img card-img-sticky mt-4" alt="...">
             </div>
             <div class="col-md-8">
                 <div class="card-body">
@@ -55,7 +55,7 @@
         <div class="card mb-3">
             <div class="row no-gutters">
                 <div class="col-md-4">
-                    <img src="/images/speakers/{{$speaker->photo}}" class="card-img mt-4" alt="...">
+                    <img src="/images/speakers/{{$speaker->photo}}" class="card-img card-img-sticky mt-4" alt="...">
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">

@@ -35,8 +35,25 @@ body {
         background-color: lighten($color: $color__card-panel, $amount: 15%);
     }
 }
+
 .timetable__card-pr {
     background-color: $color__card-pr;
+
+    &:hover {
+        background-color: lighten($color: $color__card-pr, $amount: 15%);
+    }
+}
+
+.timetable__card-prL {
+    background-color: $color__card-prL;
+
+    &:hover {
+        background-color: lighten($color: $color__card-pr, $amount: 15%);
+    }
+}
+
+.timetable__card-prR {
+    background-color: $color__card-prR;
 
     &:hover {
         background-color: lighten($color: $color__card-pr, $amount: 15%);
@@ -48,4 +65,50 @@ body {
 }
 .timetable__card-panel :hover {
     cursor: pointer;
+}
+.timetable__card-prL {
+    height: 100%;
+
+    :hover {
+        cursor: pointer;
+    }
+}
+.timetable__card-prR {
+    height: 100%;
+
+    :hover {
+        cursor: pointer;
+    }
+}
+
+.presenters__track-c {
+    height: 50%;
+}
+
+.footer__sponsors {
+    background-color: white;
+    margin-top: 2rem;
+    max-width: 100%;
+    margin-left: 0;
+}
+.main__sponsor {
+    margin-left: 4rem;
+    height: 100%;
+    min-width: 250px;
+}
+.other__sponsors {
+    margin-right: 4rem;
+    border-left: 1px solid lightgrey;
+}
+.bronze__sponsor-container {
+    margin-top: 1rem;
+}
+.other__sponsor-container {
+    max-height: 250px;
+}
+.bronze__sponsor-img {
+    margin-top: 15%;
+}
+.modal-header img {
+    max-width: 95%;
 }

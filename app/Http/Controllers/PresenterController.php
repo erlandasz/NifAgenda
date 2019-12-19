@@ -18,7 +18,10 @@ class PresenterController extends Controller
 
         return view('presenters',compact('presenters'))
             ->with('i', (request()->input('page', 1) - 1) * 5);
+
+        
     }
+
 
     /**
      * Show the form for creating a new resource.
@@ -47,9 +50,9 @@ class PresenterController extends Controller
      * @param  \App\Presenter  $presenter
      * @return \Illuminate\Http\Response
      */
-    public function show(Presenter $presenter)
+    public function show($id)
     {
-        //
+        return view('show', ['presenter'=> Presenter::findOrFail($id)]);
     }
 
     /**

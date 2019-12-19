@@ -35,5 +35,10 @@ Route::get('/timetable', function () {
     return view('timetable');
 });
 
+Route::get('/pr-timetable', function () {
+    return view('presentingtimetable');
+});
+
 Route::resource('speakers', 'SpeakerController');
 Route::resource('presenting-companies', 'PresenterController');
+

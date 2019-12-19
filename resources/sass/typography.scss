@@ -72,6 +72,9 @@
     position: sticky;
     top: 50px;
 }
+.presenter__left-text {
+    margin-left: 1rem;
+}
 
 .presenter__left-title {
     font-weight: $font__weight-xmedium;
@@ -119,4 +122,25 @@
     overflow: auto;
     max-height: 100px;
     font-size: $font__size-xsmall;
+}
+
+.card__text-bold {
+    font-weight: $font__weight-xmedium;
+    color: $color__black;
+}
+.card h5 {
+    color: $color__black;
+}
+.bronze__sponsor-container {
+    font-weight: $font__weight-xmedium;
+}
+.other__sponsor-container {
+    font-weight: $font__weight-xmedium;
+}
+.other__sponsors {
+    text-align: center;
+}
+
+.main__sponsor {
+    text-align: center;
 }

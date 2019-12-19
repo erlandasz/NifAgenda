@@ -72,6 +72,10 @@
   top: 50px;
 }
 
+.presenter__left-text {
+  margin-left: 1rem;
+}
+
 .presenter__left-title {
   font-weight: 550;
   text-transform: uppercase;
@@ -128,6 +132,31 @@
   font-size: 0.8rem;
 }
 
+.card__text-bold {
+  font-weight: 550;
+  color: black;
+}
+
+.card h5 {
+  color: black;
+}
+
+.bronze__sponsor-container {
+  font-weight: 550;
+}
+
+.other__sponsor-container {
+  font-weight: 550;
+}
+
+.other__sponsors {
+  text-align: center;
+}
+
+.main__sponsor {
+  text-align: center;
+}
+
 .main-content {
   max-width: 760px;
   padding-top: 0 !important;
@@ -175,12 +204,82 @@ body {
   background-color: #f7c5f7;
 }
 
+.timetable__card-prL {
+  background-color: violet;
+}
+
+.timetable__card-prL:hover {
+  background-color: #f7c5f7;
+}
+
+.timetable__card-prR {
+  background-color: lightblue;
+}
+
+.timetable__card-prR:hover {
+  background-color: #f7c5f7;
+}
+
 .timetable__list .card {
   border-radius: 0 !important;
 }
 
 .timetable__card-panel :hover {
   cursor: pointer;
+}
+
+.timetable__card-prL {
+  height: 100%;
+}
+
+.timetable__card-prL :hover {
+  cursor: pointer;
+}
+
+.timetable__card-prR {
+  height: 100%;
+}
+
+.timetable__card-prR :hover {
+  cursor: pointer;
+}
+
+.presenters__track-c {
+  height: 50%;
+}
+
+.footer__sponsors {
+  background-color: white;
+  margin-top: 2rem;
+  max-width: 100%;
+  margin-left: 0;
+}
+
+.main__sponsor {
+  margin-left: 4rem;
+  height: 100%;
+  min-width: 250px;
+}
+
+.other__sponsors {
+  margin-right: 4rem;
+  border-left: 1px solid lightgrey;
+}
+
+.bronze__sponsor-container {
+  margin-top: 1rem;
+}
+
+.other__sponsor-container {
+  max-height: 250px;
+}
+
+.bronze__sponsor-img {
+  margin-top: 15%;
+}
+
+.modal-header img {
+  max-width: 95%;
 }
 
 .container-background {
@@ -197,7 +296,7 @@ body {
   background-color: white;
 }
 
-.card-img {
+.card-img-sticky {
   position: -webkit-sticky;
   position: sticky;
   top: 50px;
