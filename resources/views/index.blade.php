@@ -8,7 +8,7 @@
     <div class='container'>    
         <p class='index__page-headings index__header-medium index__first-lines'>SACHS ASSOCIATES ARE DELIGHTED TO WELCOME YOU TO THE:</p>
 
-        <p class='index__page-headings index__header-large remove-margin-bot'>12th annual <br> neuroscience innovation forum<br></p>
+        <p class='index__page-headings index__header-large remove-margin-bot'>3rd annual <br> neuroscience innovation forum<br></p>
         <p class='index__header-small'>for business development, licensing & investment</p>
 
         <p class='index__page-headings index__header-medium'>12th january, 2020 <br> marines' memorial club <br> san francisco, usa</p>

@@ -23,25 +23,25 @@
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
             <li class="nav-item {{ Request::is('/') ? 'active' : '' }}">
-                <a class="nav-link" href="{{ url('/') }}">Welcome</a>
+                <a class="nav-link" href="{{ url('/') }}">Home</a>
             </li>
             <li class="nav-item {{ Request::is('speakers') ? 'active' : '' }}">
                 <a class="nav-link" href="{{ url('/speakers') }}">Speakers</a>
             </li>
             <li class="nav-item {{ Request::is('presenting-companies') ? 'active' : '' }}">
-                <a class="nav-link" href="{{ url('/presenting-companies') }}">Presenting Companies</a>
+                <a class="nav-link" href="{{ url('/presenting-companies') }}">Presenters</a>
             </li>
             <li class="nav-item {{ Request::is('supporting-organisations') ? 'active' : '' }}">
-                <a class="nav-link" href="{{ url('/supporting-organisations') }}">Supporting Organisations</a>
+                <a class="nav-link" href="{{ url('/supporting-organisations') }}">Sponsors & Supporters</a>
             </li>
             <li class="nav-item {{ Request::is('timetable') ? 'active' : '' }}">
-                <a class="nav-link" href="{{ url('/timetable') }}">Timetable</a>
+                <a class="nav-link" href="{{ url('/timetable') }}">Agenda</a>
             </li>
             <li class='nav-item {{ Request::is('presentingtimetable') ? 'active' : '' }}'>
-                <a class='nav-link' href='{{ url('/pr-timetable') }}'>Presenting Timetable</a>
+                <a class='nav-link' href='{{ url('/pr-timetable') }}'>Presenter Agenda</a>
             </li>
             <li class="nav-item {{ Request::is('organisers') ? 'active' : '' }}">
-                <a class="nav-link" href="{{ url('/organisers') }}">Organisers</a>
+                <a class="nav-link" href="{{ url('/organisers') }}">About Sachs</a>
             </li>
         </ul>
     </div>

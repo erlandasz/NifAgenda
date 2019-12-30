@@ -1,5 +1,5 @@
 .index__page-headings {
-  color: tomato;
+  color: #410f57;
   text-transform: uppercase;
 }
 
@@ -16,7 +16,7 @@
 .index__header-small {
   font-size: 1rem;
   font-weight: 300;
-  color: tomato;
+  color: #410f57;
   text-transform: uppercase;
   padding-top: 0;
   margin-top: 0;
@@ -37,7 +37,7 @@
 }
 
 .in-text-link {
-  color: tomato;
+  color: #410f57;
 }
 
 .section__headings {
@@ -56,9 +56,9 @@
 }
 
 .person__card-company {
-  background-color: tomato;
+  background-color: #410f57;
   line-height: 2;
-  color: white;
+  color: white !important;
 }
 
 .non-opaque-person {
@@ -70,6 +70,7 @@
   position: -webkit-sticky;
   position: sticky;
   top: 50px;
+  color: black !important;
 }
 
 .presenter__left-text {
@@ -94,7 +95,7 @@
   text-transform: uppercase;
   font-weight: 550;
   font-size: 1rem;
-  color: tomato;
+  color: #410f57;
 }
 
 .timetable__modal-button {
@@ -157,6 +158,35 @@
   text-align: center;
 }
 
+.pr_timetable-white h5,
+.pr_timetable-white p {
+  color: white !important;
+}
+
+.pr_timetable-white h6 {
+  color: #d9d9d9 !important;
+}
+
+.timetable__card-speech p {
+  color: black !important;
+}
+
+.timetable__card-panel p {
+  color: black !important;
+}
+
+.person__card-text {
+  color: black !important;
+}
+
+.person__card-text p {
+  color: black !important;
+}
+
+.timetable__list a:hover {
+  text-decoration: none;
+}
+
 .main-content {
   max-width: 760px;
   padding-top: 0 !important;
@@ -197,27 +227,28 @@ body {
 }
 
 .timetable__card-pr {
-  background-color: violet;
+  background-color: #955187;
 }
 
 .timetable__card-pr:hover {
-  background-color: #f7c5f7;
+  background-color: #b77bab;
 }
 
 .timetable__card-prL {
-  background-color: violet;
+  background-color: #955187;
 }
 
 .timetable__card-prL:hover {
-  background-color: #f7c5f7;
+  background-color: #b77bab;
 }
 
 .timetable__card-prR {
-  background-color: lightblue;
+  background-color: #1d4995;
 }
 
 .timetable__card-prR:hover {
-  background-color: #f7c5f7;
+  background-color: #2968d5;
+  text-decoration: none !important;
 }
 
 .timetable__list .card {
@@ -250,19 +281,16 @@ body {
 
 .footer__sponsors {
   background-color: white;
-  margin-top: 2rem;
   max-width: 100%;
   margin-left: 0;
 }
 
 .main__sponsor {
-  margin-left: 4rem;
   height: 100%;
   min-width: 250px;
 }
 
 .other__sponsors {
-  margin-right: 4rem;
   border-left: 1px solid lightgrey;
 }
 
@@ -280,6 +308,64 @@ body {
 
 .modal-header img {
   max-width: 95%;
+}
+
+.card {
+  border: none;
+}
+
+.PRTRACK__A {
+  background-color: #410f57 !important;
+}
+
+.PRTRACK__B {
+  background-color: #0b1d6f !important;
+}
+
+.timetable__card-breakfast {
+  background-color: #0b1d6f !important;
+  color: white;
+}
+
+.timetable__card-breakfast h5 {
+  color: white;
+}
+
+.timetable__card-breakfast p {
+  color: white !important;
+}
+
+.timetable__dark-purple {
+  background-color: #410f57 !important;
+}
+
+.timetable__dark-purple h5 {
+  color: white;
+}
+
+.timetable__dark-purple p {
+  color: white !important;
+}
+
+.timetable_lightPink {
+  background-color: #fef5f9 !important;
+}
+
+.timetable_lightPink {
+  background-color: #f0e5f1 !important;
+}
+
+.timetable__card-breakfast {
+  border-radius: 0 !important;
+}
+
+.sponsors__purple-background {
+  background-color: #410f57 !important;
+  color: white !important;
+}
+
+.first__sponsor-container {
+  padding-top: 20px;
 }
 
 .container-background {

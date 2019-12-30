@@ -25,6 +25,7 @@
         @component('timetable.coffee')
         @endcomponent
 
+        {{-- pr track a & b --}}
         
         @component('timetable.alzheimers')
         @endcomponent
@@ -37,6 +38,8 @@
         
         @component('timetable.earlystage')
         @endcomponent
+
+        {{-- pr track a & b end --}}
 
         @component('timetable.lunch')
         @endcomponent

@@ -7,8 +7,8 @@
 
     <div class='index-container'>
 
-    <div class='container'>
-        <p class='section__headings index__first-lines'>
+    <div class='container first__sponsor-container'>
+        <p class='section__headings sponsors__purple-background sponsors__first-line'>
             bronze sponsor
         </p>
     </div>
@@ -38,7 +38,7 @@
     </div>
     
     <div class='container'>
-        <p class='section__headings index__first'>
+        <p class='section__headings sponsors__purple-background index__first'>
             supporters
         </p>
     </div>

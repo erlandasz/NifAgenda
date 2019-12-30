@@ -8,8 +8,12 @@ $color__black: black;
 $color__gray: gray;
 $color__white: white;
 $color__violet: mediumvioletred;
-$color__pink: violet;
-$color__blue: lightblue;
+$color__pink: #955187;
+$color__blue: #1d4995;
+$color__darkPurple: #410f57;
+$color__darkBlue: #0b1d6f;
+$color__lightPink: #fef5f9;
+$color__lightPinkSub: #f0e5f1;
 
 $color__tea-green: #d1ffc6;
 $color__pale-spring: #eee5bf;
@@ -40,7 +44,7 @@ $font__weight-xmedium: 550;
 $font__weight-thick: 600;
 $font__weight-bold: 650;
 
-$color__page-headings: $color__tomato;
+$color__page-headings: $color__darkPurple;
 $color__page-text: $color__black;
 
 $font__size-headings: $font__size-medium;

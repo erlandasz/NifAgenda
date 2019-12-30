@@ -47,9 +47,9 @@ class SpeakerController extends Controller
      * @param  \App\Speaker  $speaker
      * @return \Illuminate\Http\Response
      */
-    public function show(Speaker $speaker)
+    public function show($id)
     {
-        //
+        return view('show-speaker', ['speaker'=> Speaker::findOrFail($id)]);
     }
 
     /**

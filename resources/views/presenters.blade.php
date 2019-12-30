@@ -39,8 +39,7 @@
                 </div>
             </div>
         </div>
-            
-    @empty
+        @empty
         <p> no presenters </p>
     @endforelse
 @endsection

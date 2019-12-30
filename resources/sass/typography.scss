@@ -58,9 +58,9 @@
 }
 
 .person__card-company {
-    background-color: $color__tomato;
+    background-color: $color__darkPurple;
     line-height: 2;
-    color: $color__white;
+    color: $color__white !important;
 }
 
 .non-opaque-person {
@@ -71,6 +71,7 @@
     position: -webkit-sticky;
     position: sticky;
     top: 50px;
+    color: black !important;
 }
 .presenter__left-text {
     margin-left: 1rem;
@@ -144,3 +145,29 @@
 .main__sponsor {
     text-align: center;
 }
+
+.pr_timetable-white h5,
+.pr_timetable-white p {
+    color: white !important;
+}
+.pr_timetable-white h6 {
+    color: darken($color: white, $amount: 15%) !important;
+}
+.timetable__card-speech p {
+    color: black !important;
+}
+.timetable__card-panel p {
+    color: black !important;
+}
+.person__card-text {
+    color: black !important;
+}
+.person__card-text p {
+    color: black !important;
+}
+.timetable__list a:hover {
+    text-decoration: none;
+}
+// .sponsors__first-line {
+//     margin-top: 20px;
+// }

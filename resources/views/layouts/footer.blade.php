@@ -10,7 +10,7 @@
 
     </div>
     <div class='other__sponsors col'>
-        <p class='bronze__sponsor-container'>
+        <p class='bronze__sponsor-container other__sponsor-container'>
             Supported by:
         </p>
         
