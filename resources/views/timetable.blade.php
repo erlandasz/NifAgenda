@@ -56,6 +56,9 @@
         @component('timetable.coffee2')
         @endcomponent
 
+        @component('timetable.roundtable')
+        @endcomponent
+
         @component('timetable.reception')
         @endcomponent
 

@@ -71,7 +71,6 @@ body {
 }
 .timetable__card-prL {
     height: 100%;
-    // border-bottom: 1px dashed white !important;
 
     :hover {
         cursor: pointer;
@@ -79,7 +78,6 @@ body {
 }
 .timetable__card-prR {
     height: 100%;
-    // border-bottom: 1px dashed white !important;
 
     :hover {
         cursor: pointer;
@@ -165,4 +163,8 @@ body {
 }
 .first__sponsor-container {
     padding-top: 20px;
+}
+.index__wifi-info {
+    background-color: $color__darkPurple;
+    color: white;
 }

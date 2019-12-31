@@ -10,6 +10,11 @@
     font-weight: $font__weight-xmedium;
 }
 
+.index__header-xmedium {
+    font-weight: $font__weight-xmedium;
+    font-size: 1.2rem;
+}
+
 .index__header-large {
     font-size: $font__heading-large;
     font-weight: $font__weight-bold;
@@ -171,3 +176,12 @@
 // .sponsors__first-line {
 //     margin-top: 20px;
 // }
+
+.purple__hyper-link {
+    text-decoration: none;
+    color: $color__darkPurple;
+    :hover {
+        color: darken($color: $color__darkPurple, $amount: 15%);
+        text-decoration: none !important;
+    }
+}

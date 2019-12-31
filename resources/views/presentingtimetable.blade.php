@@ -102,7 +102,7 @@
                 <div class="card-body">
                     <h5 class="card-title">11:05</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
-                    <p class="card-text card__text-bold">Capricor Therapeutics, Inc. <br /> [NASDAQ: CAPR]</p>
+                    <p class="card-text card__text-bold">Reserved<br /> 404</p>
                 </div>
             </div>
             </a>
@@ -220,7 +220,7 @@
                 <div class="card-body">
                     <h5 class="card-title">12:25</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
-                    <p class="card-text card__text-bold">RESERVED</p>
+                    <p class="card-text card__text-bold">available</p>
                 </div>
             </div>
             </a>
@@ -314,12 +314,12 @@
     <div class='row timetable__list'>
 
         <div class='col'>
-            <a class='' href='/presenting-companies/26'>
+            <a class='' href='/presenting-companies/35'>
             <div class="card timetable-card timetable__card-prL pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">13:50</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
-                    <p class="card-text card__text-bold">NeuroBo Pharmaceuticals, Inc. <br />[NASDAQ:NRBO]</p>
+                    <p class="card-text card__text-bold">BIOS Health, Inc.</p>
                 </div>
             </div>
             </a>
@@ -433,12 +433,12 @@
     <div class='row timetable__list'>
 
         <div class='col'>
-            <a class='' href='#'>
+            <a class='' href='/presenting-companies/5'>
             <div class="card timetable-card timetable__card-prL pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">14:50</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
-                    <p class="card-text card__text-bold">RESERVED</p>
+                    <p class="card-text card__text-bold">ANTISENSE THERAPEUTICS LTD.<br /> [ASX:ANP / OTC:ATHJY]</p>
                 </div>
             </div>
             </a>
@@ -586,21 +586,21 @@
         </div>
 
         <div class='col'>
-            <a class='' href='#'>
+            <a class='' href='/presenting-companies/36'>
             <div class="card row presenters__track-c timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">16:05</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
-                    <p class="card-text card__text-bold">RESERVED</p>
+                    <p class="card-text card__text-bold">Cordance Medical, INC.</p>
                 </div>
             </div>
             </a>
-            <a class='' href='#'>
+            <a class='' href='/presenting-companies/37'>
             <div class="card row presenters__track-c timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">16:15</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
-                    <p class="card-text card__text-bold">RESERVED</p>
+                    <p class="card-text card__text-bold">NeuroThera</p>
                 </div>
             </div>
             </a>
@@ -624,12 +624,12 @@
         </div>
 
         <div class='col'>
-            <a class='' href='#'>
+            <a class='' href='/presenting-companies/38'>
             <div class="card row presenters__track-c timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">16:25</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
-                    <p class="card-text card__text-bold">RESERVED</p>
+                    <p class="card-text card__text-bold">Arviat Pharmaceuticals, Inc.</p>
                 </div>
             </div>
             </a>

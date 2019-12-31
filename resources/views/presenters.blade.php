@@ -8,7 +8,7 @@
         <div class="card mb-3">
             <div class="row no-gutters">
                 <div class="col-md-4 border-right">
-                    <img src="/images/presenters/{{$presenter->logo}}/logo.png" class="card-img card-img-sticky mt-4 presenter__img" alt="...">
+                    <img src="/images/presenters/{{$presenter->logo}}/logo.png" class="card-img card-img-sticky mt-4 presenter__img" alt="No Logo Found">
                     <p class='presenter__left-text'><span class='presenter__left-title'>ADDRESS</span><br />
                     <span class='presenter__left-subtitle'>{{ $presenter->address }}</span></p>
                     <p class='presenter__left-text'><span class='presenter__left-title'>WEBSITE</span><br />

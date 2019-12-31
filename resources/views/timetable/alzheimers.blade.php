@@ -3,7 +3,7 @@
         <div class="card-body">
             <h5 class="card-title">10:25</h5>
             <h6 class="card-subtitle mb-2 text-muted">Room Commandants</h6>
-            <p class="card-text"><b>Advances in Alzheimer's & Other Cognitive Disorders' Panel</b></p>
+            <p class="card-text"><b>Advances in Alzheimer's & Other Cognitive Disorders Panel</b></p>
         </div>
     </div>
     <div id="collapse3" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">

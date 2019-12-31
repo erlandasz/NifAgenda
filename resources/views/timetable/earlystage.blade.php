@@ -20,16 +20,16 @@
             </b>Head of Neuroscience BD, <b>Takeda Pharmaceuticals Co., Ltd.</b></p>
 
             <p><b>
-                <a href='#' class='timetable__modal-button'> Mary Toliaks, </a>
-            </b>Director, <b>Wyss Center for Bio and Neuroengineering</b></p>
+                <a href='/speakers/42' class='timetable__modal-button'> Michael Kranda, </a>
+            </b>Sr. Director, Business Development, <b>Allen Institute</b></p>
 
             <p><b>
-                <a href='/speakers/42' class='timetable__modal-button'> Michael Kranda, </a>
-            </b>Director, Business Development, <b>Allen Institute</b></p>
+                <a href='/speakers/61' class='timetable__modal-button'> Todd Haim, </a>
+            </b>Chief of the Oce of Small Business Research, <b>National Institute on Aging (NIH)</b></p>
 
             <p><b>
                 <a href='/speakers/59' class='timetable__modal-button'> Weiyong Sun, </a>
-            </b>Senior Director, Searching & Evaluation, Global Business Development, <b>Daiichi Sankyo, Inc.</b></p>
+            </b>Senior Director, Searching & Evaluation, Global Business Development, Global Business Development, <b>Daiichi Sankyo, Inc.</b></p>
 
         </div>
     </div>

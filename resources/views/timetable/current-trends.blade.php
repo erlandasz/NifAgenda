@@ -25,7 +25,7 @@
             </b>CSO, <b>Click Therapeutics, Inc. </b></p>
 
             <p><b>
-                <a href='/speakers/3' class='timetable__modal-button'> Luca Ravagnan, </a>
+                <a href='#' class='timetable__modal-button'> Luca Ravagnan, </a>
             </b>Co-Founder, Board Member & CEO, <b>WISE S.r.l. </b></p>
 
             <p><b>
@@ -38,7 +38,7 @@
 
             <p><b>
                 <a href='/speakers/56' class='timetable__modal-button'> Susanne Wilke, </a>
-            </b>CEO, <b>Cognoptix, Inc.</b></p>
+            </b>President & CEO <b>Cognoptix, Inc.</b></p>
 
         </div>
     </div>

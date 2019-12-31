@@ -6,7 +6,7 @@
             Bronze Sponsor:
         </p>
 
-        <img src="{{URL::asset('/images/sponsors/neurorx_logo.png')}}" class="card-img bronze__sponsor-img" alt="..."> 
+        <img src="{{URL::asset('/images/sponsors/neurorx.jpg')}}" class="card-img bronze__sponsor-img" alt="..."> 
 
     </div>
     <div class='other__sponsors col'>

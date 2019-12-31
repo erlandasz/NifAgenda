@@ -11,7 +11,8 @@
             sachs associates
         </p>
         <p class='index__header-small header-link'>
-            www.sachsforum.com
+            <a class='purple__hyper-link' href='http://www.sachsforum.com'>www.sachsforum.com</a>
+            {{-- TODO HYPERLINK COLORING --}}
         </p>
     </div>
 
@@ -30,7 +31,7 @@
     </div>
 
     <div class='container'>
-        <p class='index__page-headings index__header-medium'>
+        <p class='index__page-headings index__header-xmedium'>
             the benefits of conference participation with sachs associates may be summarised as follows:
         </p>
         <p class='index__header-medium index__page-headings'>

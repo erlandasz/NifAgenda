@@ -8,6 +8,11 @@
   font-weight: 550;
 }
 
+.index__header-xmedium {
+  font-weight: 550;
+  font-size: 1.2rem;
+}
+
 .index__header-large {
   font-size: 1.8rem;
   font-weight: 650;
@@ -185,6 +190,16 @@
 
 .timetable__list a:hover {
   text-decoration: none;
+}
+
+.purple__hyper-link {
+  text-decoration: none;
+  color: #410f57;
+}
+
+.purple__hyper-link :hover {
+  color: #100416;
+  text-decoration: none !important;
 }
 
 .main-content {
@@ -366,6 +381,11 @@ body {
 
 .first__sponsor-container {
   padding-top: 20px;
+}
+
+.index__wifi-info {
+  background-color: #410f57;
+  color: white;
 }
 
 .container-background {

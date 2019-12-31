@@ -16,7 +16,7 @@
 
             <p><b>
                 <a href='/speakers/45' class='timetable__modal-button'> Murali Gopalakrishnan, </a>
-            </b>Sr Director, Head of Search & Evaluation - Neuroscience, Corporate Strategy Office, <b>AbbVie, Inc.</b></p>
+            </b>Sr. Director, Head of Search & Evaluation - Neuroscience, Corporate Strategy Office, <b>AbbVie, Inc.</b></p>
 
             <p class='timetable__text-italic'>Panelists:</p>
 

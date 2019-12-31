@@ -25,6 +25,10 @@
             </b>Entrepreneur in Residence, <b>BB Pureos Bioventures</b></p>
 
             <p><b>
+                <a href='/speakers/60' class='timetable__modal-button'> Esther Melo, </a> 
+            </b>Associate, Global Business Development, <b>F. Homann-La Roche Ltd.</b></p>
+
+            <p><b>
                 <a href='/speakers/26' class='timetable__modal-button'>Jesús Martin-Garcia, </a>
             </b>CEO, <b>GeNeuro SA</b></p>
 
