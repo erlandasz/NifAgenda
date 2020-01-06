@@ -168,3 +168,6 @@ body {
     background-color: $color__darkPurple;
     color: white;
 }
+#id01 :hover {
+    background-color: lighten($color:#410f57, $amount: 25%)
+}

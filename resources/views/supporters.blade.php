@@ -37,7 +37,7 @@
         </div>
     </div>
     
-    <div class='container'>
+    <div class='container first__sponsor-container'>
         <p class='section__headings sponsors__purple-background index__first'>
             supporters
         </p>
@@ -288,4 +288,6 @@ Recent IPO transactions: ABIVAX (Euronext Paris - €60m), OSE Pharma (Euronext 
         </div>
     </div>
     </div>
+
+
 @endsection

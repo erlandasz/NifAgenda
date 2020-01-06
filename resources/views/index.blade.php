@@ -20,7 +20,7 @@
             Back for its 3rd annual edition, the global-pharma industry forum addresses through its conference programme the main challenges for 2020 in investment, partnering and alliance management. The program will cover BioPartnering for CNS, with industry keynotes and panels on AD, PD, Neuropsychiatry and Pain Management. Moreover, there are panels on innovation in neurotech covering banking, device, diagnostics and software.
         </p>
         <p>
-            The target audience are buy and sell side analysts from investment banks and funds and partnering executives from pharma, biotech and MedTech companies. We anticipate over 300 delegates and 35+ company presentations by established listed, private and emerging companies. The forum will provide a number of networking opportunities via our online One-2-One meeting system, which allows you to pre-book meetings to take place throughout the day.
+            The target audience are buy and sell side analysts from investment banks and funds and partnering executives from pharma, biotech and MedTech companies. We anticipate over 300 delegates and 35+ company presentations by established listed, private and emerging companies. The forum will provide a number of networking opportunities via our online One-2-One meeting system, which allows you to pre-book meetings to take place throughout the day at dedicated meeting facilities.
         </p>
     </div>
 
@@ -53,7 +53,7 @@
 
     <div class='container info__text-block'>
         <p>
-            Please use the agenda to mark off presentations that you are interested in and email your request to Silvia@sachsforum.com after the conference. We will endeavor to send you the requested presentations as soon as we have been granted permission to do so by that specific presenter.
+            Please use the agenda to mark off presentations that you are interested in and email your request to <a class='purple__hyper-link' href='mailto:silvia@sachsforum.com'>Silvia@sachsforum.com</a> after the conference. We will endeavor to send you the requested presentations as soon as we have been granted permission to do so by that specific presenter.
         </p>
         <p>
             Please note that we DO NOT have copies of the slides that are shown during the conference.

@@ -24,6 +24,10 @@
                 <a href='/speakers/17' class='timetable__modal-button'>Deborah Rathjen, </a>
             </b>Executive Chair, <b>Bioasis Technologies, Inc.</b></p>
 
+            <p><b>
+                <a href='/speakers/65' class='timetable__modal-button'>John Alam, </a>
+            </b>President & CEO, <b>EIP Pharma, Inc.</b></p>
+
             <p><b>​
                 <a href='/speakers/39' class='timetable__modal-button'>Marc Martinell, </a>
             </b>CEO, <b>Minoryx Therapeutics S.L.</b></p>

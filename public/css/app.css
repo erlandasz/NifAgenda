@@ -394,6 +394,10 @@ body {
   color: white;
 }
 
+#id01 :hover {
+  background-color: #9222c4;
+}
+
 .container-background {
   background-image: url(/images/sachs_background.jpg?21dd923ec4918d1e2b494671616c30b9);
   background-size: cover;

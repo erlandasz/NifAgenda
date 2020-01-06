@@ -24,6 +24,10 @@
             </b>Senior Director, BD, <b>Sunovion Pharmaceuticals, Inc.</b></p>
 
             <p><b>
+                <a href='/speakers/66' class='timetable__modal-button'> Donald Wright, </a> 
+            </b>Founder, President & CEO, <b>Clarigent Health</b></p>
+
+            <p><b>
                 <a href='/speakers/33' class='timetable__modal-button'> Kyle Gano, </a> 
             </b>Chief Business Development & Strategy Officer, <b>Neurocrine Biosciences, Inc.</b></p>
 

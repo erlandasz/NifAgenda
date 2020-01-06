@@ -12,8 +12,9 @@
                     <h5 class="card-title">Harry Tracy</h5>
                     <h6 class='card-subtitle mb-2 text-muted'>President</h6>
                     <p class="card-text">
-                        Dr. Tracy is the founder and President of NI Research. Since 1995, NIR has been the leading publisher of independent analysis and commentary
-                         regarding the neurotherapeutics area. NIR's bimonthly publication, NeuroPerspective, is utilized by pharmaceutical
+                        Dr. Tracy is the founder and President of NI Research. Since 1995, NIR has been the leading publisher of independent analysis and commentary regarding the neurotherapeutics area. NIR's bimonthly publication, NeuroPerspective, is utilized by pharmaceutical companies and investment professionals around the world, and is known for its willingness to directly address the often painful realities of the CNS area, albeit with style and humor. NIR also publishes  the annual NeuroLicensing, and NIR’s Second Opinion service offers consulting services regarding strategic planning and licensing to pharmaceutical companies ranging from the largest of major pharma firms to small startups. 
+                        Dr. Tracy's background includes twenty-five years of experience as a clinician and consultant in a variety of psychiatric and neurological settings.  He received his PhD from the University of Miami, and completed his clinical training at Massachusetts General Hospital/Harvard Medical School.
+
                     ​</p>
                 </div>
                 <div class="modal-footer">

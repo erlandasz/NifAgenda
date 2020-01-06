@@ -15,8 +15,8 @@
                     <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
                     <p class="card-text"><span class='timetable__text-italic'>Moderated by: </span><br />
                         <p><b>
-                            Emad Sama,
-                        </b>Managing Director, <b>WBB Securities LLC</b></p>
+                            Emad Samad,
+                        </b>Partner, <b>WBB Securities LLC</b></p>
                     </p>
                 </div>
             </div>
@@ -28,7 +28,9 @@
                 <div class="card-body">
                     <h5 class="card-title">PR Track B</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
-                    <p class="card-text"><span class='timetable__text-italic'>Moderated by: </span><br /><b>TBA</b></p>
+                    <p class="card-text"><span class='timetable__text-italic'>Moderated by: </span><br /><p><b>
+                        Robin Davison,
+                    </b>Healthcare Analyst, <b>New Science Global Healthcare Fund</b></p></p>
                 </div>
             </div>
         </div>
@@ -57,7 +59,7 @@
                 <div class="card-body">
                     <h5 class="card-title">10:25</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
-                    <p class="card-text card__text-bold">Global Kinetics Corporation Ltd.</p>
+                    <p class="card-text card__text-bold">Global Kinetics Pty Ltd.</p>
                 </div>
             </div>
         </a>
@@ -131,7 +133,7 @@
                 <div class="card-body">
                     <h5 class="card-title">11:25</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
-                    <p class="card-text card__text-bold">Bioasis Technologies, Inc.<br /> [CVE: BTI]</p>
+                    <p class="card-text card__text-bold">Bioasis Technologies, Inc.<br /> [OTCQB: BIOAF]  [TSXV: BTI]</p>
                 </div>
             </div>
             </a>
@@ -191,7 +193,7 @@
                 <div class="card-body">
                     <h5 class="card-title">12:05</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
-                    <p class="card-text card__text-bold">Lachesis Biosciences, Ltd.</p>
+                    <p class="card-text card__text-bold">Lachesis Biosciences Ltd.</p>
                 </div>
             </div>
             </a>
@@ -204,7 +206,7 @@
                 <div class="card-body">
                     <h5 class="card-title">12:05</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
-                    <p class="card-text card__text-bold">Cerecin, Inc.</p>
+                    <p class="card-text card__text-bold">Cerecin Pte. Ltd.</p>
                 </div>
             </div>
             </a>
@@ -251,7 +253,9 @@
                 <div class="card-body">
                     <h5 class="card-title">PR Track C</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
-                    <p class="card-text"><span class='timetable__text-italic'>Moderated by: </span><br /><b>TBA</b></p>
+                    <p class="card-text"><span class='timetable__text-italic'>Moderated by: </span><br />
+                        [ TBA... ]
+                    </p>
                 </div>
             </div>
         </div>
@@ -293,7 +297,7 @@
                 <div class="card-body">
                     <h5 class="card-title">13:30</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
-                    <p class="card-text card__text-bold">Paradromics, Inc.</p>
+                    <p class="card-text card__text-bold">Paradromics Inc.</p>
                 </div>
             </div>
             </a>
@@ -319,7 +323,7 @@
                 <div class="card-body">
                     <h5 class="card-title">13:50</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
-                    <p class="card-text card__text-bold">BIOS Health, Inc.</p>
+                    <p class="card-text card__text-bold">BIOS Health</p>
                 </div>
             </div>
             </a>
@@ -372,7 +376,7 @@
                 <div class="card-body">
                     <h5 class="card-title">14:10</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
-                    <p class="card-text card__text-bold">Newronika SpA</p>
+                    <p class="card-text card__text-bold">Newronika S.p.A.</p>
                 </div>
             </div>
             </a>
@@ -393,12 +397,12 @@
     <div class='row timetable__list'>
 
         <div class='col'>
-            <a class='' href='#'>
+            <a class='' href='/presenting-companies/41'>
             <div class="card timetable-card timetable__card-prL pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">14:30</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
-                    <p class="card-text card__text-bold">RESERVED</p>
+                    <p class="card-text card__text-bold">ProMIS™ Neurosciences, Inc.<br />[TSX:PMN.TO] [OTCQB: ARFXF]</p>
                 </div>
             </div>
             </a>
@@ -438,7 +442,7 @@
                 <div class="card-body">
                     <h5 class="card-title">14:50</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
-                    <p class="card-text card__text-bold">ANTISENSE THERAPEUTICS LTD.<br /> [ASX:ANP / OTC:ATHJY]</p>
+                    <p class="card-text card__text-bold">Antisense Therapeutics Ltd.<br /> [ASX:ANP] [OTC:ATHJY]</p>
                 </div>
             </div>
             </a>
@@ -471,12 +475,12 @@
     <div class='row timetable__list'>
 
         <div class='col'>
-            <a class='' href='#'>
+            <a class='' href='/presenting-companies/15'>
             <div class="card timetable-card timetable__card-prL pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">15:10</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
-                    <p class="card-text card__text-bold">RESERVED</p>
+                    <p class="card-text card__text-bold">EIP Pharma, Inc.</p>
                 </div>
             </div>
             </a>
@@ -515,7 +519,7 @@
             <div class="card timetable-card timetable__card-prL pr_timetable-white PRTRACK__A border-bottom border-top">
                 <div class="card-body">
                     <h5 class="card-title">PR Track E</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
+                    <h6 class="card-subtitle mb-2 text-muted">Room Commandants</h6>
                     <p class="card-text"><span class='timetable__text-italic'>Moderated by: </span><br />
                         <p><b>
                             Katya Smirnyagina,
@@ -549,7 +553,7 @@
             <div class="card timetable-card timetable__card-prL pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">15:45</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
+                    <h6 class="card-subtitle mb-2 text-muted">Room Commandants</h6>
                     <p class="card-text card__text-bold">Cortexyme, Inc. <br /> [NASDAQ: CRTX]</p>
                 </div>
             </div>
@@ -558,12 +562,12 @@
 
         <div class='col'>
             
-            <a class='' href='/presenting-companies/15'>
+            <a class='' href='#'>
             <div class="card timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">15:45</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
-                    <p class="card-text card__text-bold">EIP Pharma, Inc.</p>
+                    <p class="card-text card__text-bold">[ TBA ...]</p>
                 </div>
             </div>
             </a>
@@ -578,7 +582,7 @@
             <div class="card timetable-card timetable__card-prL pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">16:05</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
+                    <h6 class="card-subtitle mb-2 text-muted">Room Commandants</h6>
                     <p class="card-text card__text-bold">Oryzon Genomics S.A. <br /> [NASDAQ: ORY]</p>
                 </div>
             </div>
@@ -591,7 +595,7 @@
                 <div class="card-body">
                     <h5 class="card-title">16:05</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
-                    <p class="card-text card__text-bold">Cordance Medical, INC.</p>
+                    <p class="card-text card__text-bold">Cordance Medical, Inc.</p>
                 </div>
             </div>
             </a>
@@ -616,7 +620,7 @@
             <div class="card timetable-card timetable__card-prL pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">16:25</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
+                    <h6 class="card-subtitle mb-2 text-muted">Room Commandants</h6>
                     <p class="card-text card__text-bold">Actinogen Medical Ltd. <br /> [ASX: ACW]</p>
                 </div>
             </div>

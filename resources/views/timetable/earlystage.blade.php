@@ -12,6 +12,11 @@
             <p><b>
                 <a href='/speakers/43' class='timetable__modal-button'> Michal Preminger, </a>
             </b>Head, Johnson & Johnson Innovation, East North America, <b>Johnson & Johnson Innovation LLC</b></p>
+            
+            <p><b>
+                <a href='/speakers/58' class='timetable__modal-button'> Tim Luker, </a>
+            </b>VP, Emerging Technology & Innovation, BD, <b>Eli Lilly and Company</b></p>
+
 
             <p class='timetable__text-italic'>Panelists:</p>
 
