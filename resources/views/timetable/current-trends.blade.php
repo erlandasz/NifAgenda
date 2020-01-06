@@ -25,7 +25,7 @@
             </b>CSO, <b>Click Therapeutics, Inc. </b></p>
 
             <p><b>
-                <a href='#' class='timetable__modal-button'> Luca Ravagnan, </a>
+                <a href='/speakers/63' class='timetable__modal-button'> Luca Ravagnan, </a>
             </b>Co-Founder, Board Member & CEO, <b>WISE S.r.l. </b></p>
 
             <p><b>

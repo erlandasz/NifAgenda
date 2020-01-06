@@ -8,7 +8,7 @@
     </div>
     <div id="collapse2" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
         <div class="card-body">
-            <p class='timetable__text-italic'>Co-chaired by:</p>
+            <p class='timetable__text-italic'>Co-Chaired by:</p>
             <p><b>
                 <a href='/speakers/27' class='timetable__modal-button'> Joel Sandler, </a> 
             </b>Associate Principal, <b>Cello Health BioConsulting, previously Defined Health</b></p>
@@ -29,7 +29,7 @@
 
             <p><b>
                 <a href='/speakers/28' class='timetable__modal-button'> John Donello, </a>
-            </b>Vice President, External Science & Innovation, <b>Allergan Plc.</b></p>
+            </b>Vice President, External Science & Innovation, <b>Allergan plc</b></p>
 
             <p><b>
                 <a href='/speakers/31' class='timetable__modal-button'> Keld Flintholm Jørgensen, </a>
@@ -37,7 +37,7 @@
 
             <p><b>
                 <a href='/speakers/46' class='timetable__modal-button'> Nicholas Adams, </a>
-            </b>VP Business Development & Alliance Management, <b>ReNeuron Group Plc.</b></p>
+            </b>VP Business Development & Alliance Management, <b>ReNeuron Group plc</b></p>
 
         </div>
     </div>

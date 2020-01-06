@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', '3rd NIF: Speakers')
+@section('title', '3rd NIF: Presenter Profile')
 
 
 @section('content')
@@ -30,9 +30,15 @@
                     </div>
                     <p class="card-text">
                         <p class='presenter__right-title'>company profile</p>
-                        <p>{!! $presenter->profile !!}</p>
-                        <p>{!! $presenter->management !!}</p>
-                        <p>{!! $presenter->pipeline !!}</p>
+                            @if($presenter->presenting_person)
+                                <p class='presenter__right-title'>Presenter: <span class='no-text-transform'>{!! $presenter->presenting_person !!}</span></p>
+                            @endif
+                            @if($presenter->presenting_time)
+                                <p class='presenter__right-title'>Presenting Time: <span class='no-text-transform'>{!! $presenter->presenting_time !!}</span></p>
+                            @endif
+                            <p>{!! $presenter->profile !!}</p>
+                            <p>{!! $presenter->management !!}</p>
+                            <p>{!! $presenter->pipeline !!}</p>
                     ​</p>
                 </div>
             </div>

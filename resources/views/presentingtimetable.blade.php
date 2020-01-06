@@ -102,7 +102,7 @@
                 <div class="card-body">
                     <h5 class="card-title">11:05</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
-                    <p class="card-text card__text-bold">Reserved<br /> 404</p>
+                    <p class="card-text card__text-bold">WISE S.r.l</p>
                 </div>
             </div>
             </a>
@@ -638,7 +638,7 @@
                 <div class="card-body">
                     <h5 class="card-title">16:35</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
-                    <p class="card-text card__text-bold">RESERVED</p>
+                    <p class="card-text card__text-bold">[Available]</p>
                 </div>
             </div>
             </a>

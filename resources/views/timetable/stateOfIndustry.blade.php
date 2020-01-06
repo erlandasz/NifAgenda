@@ -9,7 +9,7 @@
     </div>
     <div id="collapseState" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
         <div class="card-body">
-            <p class='timetable__text-italic'>Co-chaired by:</p>
+            <p class='timetable__text-italic'>Co-Chaired by:</p>
             <p><b>
                 <a href='/speakers/4' class='timetable__modal-button'>Beth Jacobs,</a>
             </b> Managing Partner, <b>Excellentia Global Partners</b></p>

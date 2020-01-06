@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', '3rd NIF: Speakers')
+@section('title', '3rd NIF: Speaker')
 
 
 @section('content')

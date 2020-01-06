@@ -8,7 +8,7 @@
     </div>
     <div id="collapse3" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
             <div class="card-body">
-                <p class='timetable__text-italic'>Co-chaired by:</p>
+                <p class='timetable__text-italic'>Co-Chaired by:</p>
                 <p><b>
                     <a href='/speakers/12' class='timetable__modal-button'> Christian Jung,</a> 
                 </b>Partner, <b>Dementia Discovery Fund</b></p>
@@ -33,7 +33,7 @@
 
                 <p><b>
                     <a href='/speakers/15' class='timetable__modal-button'> Christopher Shaffer,</a> 
-                </b>Senior Director – Scientific Entrepreneur, Search & Evaluation Head, <b>Biogen Inc.</b></p>
+                </b>Senior Director – Scientific Entrepreneur, Search & Evaluation Head, <b>Biogen</b></p>
 
                 <p><b>
                     <a href='/speakers/30' class='timetable__modal-button'> Jonathan Savidge,</a> 

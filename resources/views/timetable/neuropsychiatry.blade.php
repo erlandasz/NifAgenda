@@ -14,8 +14,8 @@
             </b>Managing Director, Co-Head of Biotech Research, <b>Stifel Financial Corp.</b></p>
 
             <p><b>
-                <a href='/speakers/49' class='timetable__modal-button'> Shafique Virani, </a> 
-            </b>CEO in Residence, <b>BridgeBio, LLC.</b></p>
+                <a href='/speakers/64' class='timetable__modal-button'> Shafique Virani, </a> 
+            </b>CEO in Residence, <b>BridgeBio LLC</b></p>
 
             <p class='timetable__text-italic'>Panelists:</p>
 

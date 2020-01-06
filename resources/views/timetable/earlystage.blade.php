@@ -29,7 +29,7 @@
 
             <p><b>
                 <a href='/speakers/59' class='timetable__modal-button'> Weiyong Sun, </a>
-            </b>Senior Director, Searching & Evaluation, Global Business Development, Global Business Development, <b>Daiichi Sankyo, Inc.</b></p>
+            </b>Senior Director, Specialty Medicine Search & Evaluation Global BD, <b>Daiichi Sankyo, Inc.</b></p>
 
         </div>
     </div>

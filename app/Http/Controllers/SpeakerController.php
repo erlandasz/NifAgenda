@@ -14,7 +14,7 @@ class SpeakerController extends Controller
      */
     public function index()
     {
-        $speakers = Speaker::orderBy('name')->paginate(100);
+        $speakers = Speaker::orderBy('name')->orderby('surname')->paginate(100);
 
         return view('speakers',compact('speakers'))
             ->with('i', (request()->input('page', 1) - 1) * 5);

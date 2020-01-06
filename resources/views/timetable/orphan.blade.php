@@ -29,7 +29,7 @@
             </b>CEO, <b>Minoryx Therapeutics S.L.</b></p>
 
             <p><b>
-                <a href='#' class='timetable__modal-button'>Ralph Kern, </a>
+                <a href='/speakers/62' class='timetable__modal-button'>Ralph Kern, </a>
             </b>COO & CMO, <b>Brainstorm Cell Therapeutics, Inc.</b></p>
 
         </div>
