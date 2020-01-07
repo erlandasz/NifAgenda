@@ -264,10 +264,6 @@ body {
   color: white !important;
 }
 
-.timetable__card-prL p :hover {
-  color: white !important;
-}
-
 .timetable__card-prR {
   background-color: #b0bded;
 }
