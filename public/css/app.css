@@ -209,7 +209,7 @@
 }
 
 .main-content {
-  max-width: 760px;
+  max-width: 768px;
   padding-top: 0 !important;
 }
 
@@ -394,8 +394,23 @@ body {
   color: white;
 }
 
-#id01 :hover {
-  background-color: #9222c4;
+#aLinkLoled {
+  -webkit-writing-mode: vertical-lr;
+      -ms-writing-mode: tb-lr;
+          writing-mode: vertical-lr;
+  -webkit-text-orientation: upright;
+          text-orientation: upright;
+  background-color: #721a98;
+  color: white;
+  text-align: center;
+}
+
+#aLinkLoled:hover {
+  background-color: #0b1d6f;
+}
+
+#curson-pointer:hover {
+  background-color: darkgreen !important;
 }
 
 .container-background {

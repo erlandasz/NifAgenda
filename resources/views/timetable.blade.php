@@ -41,15 +41,13 @@
                 @component('timetable.earlystage')
                 @endcomponent
             </div>
+            <div class='col-1' style="color:white; writing-mode: vertical-rl;text-orientation: upright;background-color:green; word-break:break-all; cursor:pointer;text-align:center; display:flex;
+            justify-content:center;
+            align-items:center;" id='curson-pointer' onclick="location.href='pr-timetable'">
 
-            <a href='/pr-timetable' class='col-1' style='background-color: #410f57;'>
-                <div  style='color:white; display:flex; flex-direction:column;justify-content:center;  align-items:center; color:white;'>
-                    <div style='padding-top:15px;'><p>P<br/>R</p></div>
-                    <div><br/>T<br/>R<br/>A<br/>C<br/>K<br/>S</div>
-                    <div><br/>A<br/>&<br/>B</div>
-                </div>
-            </a>
+                PR TRACKS A & B
 
+            </div>
         </div>
 
         {{-- pr track a & b end --}}
@@ -69,26 +67,40 @@
                 @endcomponent
             </div>
             
-            <a href='/pr-timetable' class='col-1' style='background-color: #410f57;'>
-                <div  style='color:white; display:flex; flex-direction:column;justify-content:center;  align-items:center; color:white;'>
-                    <div style='padding-top:15px;'><p>P<br/>R</p></div>
-                    <div><br/>T<br/>R<br/>A<br/>C<br/>K<br/>S</div>
-                    <div><br/>C<br/>&<br/>D</div>
-                </div>
-            </a>
+            <div class='col-1' style="color:white; writing-mode: vertical-rl;text-orientation: upright;background-color:green; word-break:break-all; cursor:pointer;text-align:center; display:flex;
+            justify-content:center;
+            align-items:center;" id='curson-pointer' onclick="location.href='pr-timetable'">
+
+                PR TRACKS C & D
+
+            </div>
         </div>
                 @component('timetable.coffee2')
                 @endcomponent
 
-                @component('timetable.roundtable')
-                @endcomponent
+                <div class='row'>
 
-                @component('timetable.reception')
-                @endcomponent
+                    <div class='col-11'>
+                        @component('timetable.roundtable')
+                        @endcomponent
+                    </div>
 
+                    <div class='col-1' style="color:white; writing-mode: vertical-rl;text-orientation: upright;background-color:green; word-break:break-all; cursor:pointer;text-align:center; display:flex;
+            justify-content:center;
+            align-items:center z-index:1; margin-top:-10%;" id='curson-pointer' onclick="location.href='pr-timetable'">
+
+                <span style='writing-mode:horizontal-tb !important; font-size: 0.9rem;'>15:45 E & F</span> 
+
+            </div>
+                    
+                </div>
+                    @component('timetable.reception')
+                    @endcomponent
+                    
                 @component('timetable.end')
                 @endcomponent
 
     </div>
+
 
 @endsection

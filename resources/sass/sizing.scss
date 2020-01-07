@@ -1,7 +1,7 @@
 @import "variables";
 
 .main-content {
-    max-width: 760px;
+    max-width: 768px;
     padding-top: 0 !important;
 }
 
@@ -9,6 +9,7 @@ body {
     margin-top: -25px;
     padding-top: 0;
 }
+
 .timetable-card {
     margin-left: -15px;
     margin-right: -15px;
@@ -21,6 +22,7 @@ body {
         background-color: lighten($color: $color__card-general, $amount: 15%);
     }
 }
+
 .timetable__card-speech {
     background-color: $color__card-speech;
 
@@ -28,6 +30,7 @@ body {
         background-color: lighten($color: $color__card-speech, $amount: 15%);
     }
 }
+
 .timetable__card-panel {
     background-color: $color__card-panel;
 
@@ -66,9 +69,11 @@ body {
 .timetable__list .card {
     border-radius: 0 !important;
 }
+
 .timetable__card-panel :hover {
     cursor: pointer;
 }
+
 .timetable__card-prL {
     height: 100%;
 
@@ -76,6 +81,7 @@ body {
         cursor: pointer;
     }
 }
+
 .timetable__card-prR {
     height: 100%;
 
@@ -94,24 +100,30 @@ body {
     max-width: 100%;
     margin-left: 0;
 }
+
 .main__sponsor {
     // margin-left: 4rem;
     height: 100%;
     min-width: 250px;
 }
+
 .other__sponsors {
     border-left: 1px solid lightgrey;
     // margin-right: 4rem;
 }
+
 .bronze__sponsor-container {
     margin-top: 1rem;
 }
+
 .other__sponsor-container {
     max-height: 250px;
 }
+
 .bronze__sponsor-img {
     margin-top: 15%;
 }
+
 .modal-header img {
     max-width: 95%;
 }
@@ -123,25 +135,32 @@ body {
 .PRTRACK__A {
     background-color: $color__darkPurple !important;
 }
+
 .PRTRACK__B {
     background-color: $color__darkBlue !important;
 }
+
 .timetable__card-breakfast {
     background-color: $color__darkBlue !important;
     color: white;
 }
+
 .timetable__card-breakfast h5 {
     color: white;
 }
+
 .timetable__card-breakfast p {
     color: white !important;
 }
+
 .timetable__dark-purple {
     background-color: $color__darkPurple !important;
 }
+
 .timetable__dark-purple h5 {
     color: white;
 }
+
 .timetable__dark-purple p {
     color: white !important;
 }
@@ -149,6 +168,7 @@ body {
 .timetable_lightPink {
     background-color: $color__lightPink !important;
 }
+
 .timetable_lightPink {
     background-color: $color__lightPinkSub !important;
 }
@@ -161,13 +181,30 @@ body {
     background-color: $color__darkPurple !important;
     color: white !important;
 }
+
 .first__sponsor-container {
     padding-top: 20px;
 }
+
 .index__wifi-info {
     background-color: $color__darkPurple;
     color: white;
 }
-#id01 :hover {
-    background-color: lighten($color:#410f57, $amount: 25%)
+
+#aLinkLoled {
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    background-color: lighten($color: $color__darkPurple, $amount: 15%);
+    color: white;
+    text-align: center;
+
+    &:hover {
+        background-color: $color__darkBlue;
+    }
+}
+
+#curson-pointer {
+    &:hover {
+        background-color: darkgreen !important;
+    }
 }

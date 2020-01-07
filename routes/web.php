@@ -1,5 +1,6 @@
 <?php
 
+use Illuminate\Http\Request;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -18,6 +19,7 @@ Route::get('/', function () {
 Route::get('/speakers', function () {
     return view('speakers');
 });
+
 
 Route::get('/presenting-companies', function () {
     return view('presenters');
@@ -41,4 +43,5 @@ Route::get('/pr-timetable', function () {
 
 Route::resource('speakers', 'SpeakerController');
 Route::resource('presenting-companies', 'PresenterController');
-
+Route::get('search', 'AutoCompleteController@index');
+Route::get('autocomplete', 'AutoCompleteController@search');
