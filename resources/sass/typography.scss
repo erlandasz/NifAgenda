@@ -75,7 +75,10 @@
 .person__card-info {
     position: -webkit-sticky;
     position: sticky;
-    top: 50px;
+    top: 85px;
+    color: black !important;
+}
+.person__card-info {
     color: black !important;
 }
 .presenter__left-text {
@@ -151,10 +154,10 @@
     text-align: center;
 }
 
-.pr_timetable-white h5,
-.pr_timetable-white p {
-    color: white !important;
-}
+// .pr_timetable-white h5,
+// .pr_timetable-white p {
+//     color: white !important;
+// }
 .pr_timetable-white h6 {
     color: darken($color: white, $amount: 15%) !important;
 }
@@ -186,7 +189,7 @@
     }
 }
 .no-text-transform {
-    color:black !important;
+    color: black !important;
     font-weight: 400 !important;
     text-transform: capitalize !important;
 }

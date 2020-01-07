@@ -42,10 +42,9 @@
         <div class='col'>
         <a class='' href='/presenting-companies/17'>
     
-            <div class="card timetable-card timetable__card-prL pr_timetable-white pr_timetable-white border-bottom">
+            <div class="card timetable-card timetable__card-prL  border-bottom">
                 <div class="card-body"  href=''>
                     <h5 class="card-title">10:25</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
                     <p class="card-text card__text-bold">GeNeuro SA <br />[EPA: GNRO]</p>
                 </div>
             </div>
@@ -58,7 +57,6 @@
             <div class="card timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">10:25</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">Global Kinetics Pty Ltd.</p>
                 </div>
             </div>
@@ -74,7 +72,6 @@
             <div class="card timetable-card timetable__card-prL pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">10:45</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
                     <p class="card-text card__text-bold">Brainstorm Cell Therapeutics, Inc. <br /> [NASDAQ: BCLI]</p>
                 </div>
             </div>
@@ -87,7 +84,6 @@
             <div class="card timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">10:45</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">BrainScope Company, Inc.</p>
                 </div>
             </div>
@@ -103,7 +99,6 @@
             <div class="card timetable-card timetable__card-prL pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">11:05</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
                     <p class="card-text card__text-bold">WISE S.r.l</p>
                 </div>
             </div>
@@ -116,7 +111,6 @@
             <div class="card timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">11:05</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">Neuroelectrics</p>
                 </div>
             </div>
@@ -132,7 +126,6 @@
             <div class="card timetable-card timetable__card-prL pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">11:25</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
                     <p class="card-text card__text-bold">Bioasis Technologies, Inc.<br /> [OTCQB: BIOAF]  [TSXV: BTI]</p>
                 </div>
             </div>
@@ -145,7 +138,6 @@
             <div class="card timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">11:25</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">Cognoptix, Inc.</p>
                 </div>
             </div>
@@ -161,7 +153,6 @@
             <div class="card timetable-card timetable__card-prL pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">11:45</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
                     <p class="card-text card__text-bold">Minoryx Therapeutics S.L.</p>
                 </div>
             </div>
@@ -176,7 +167,6 @@
             <div class="card timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">11:45</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">Mitokinin, Inc.</p>
                 </div>
             </div>
@@ -192,7 +182,6 @@
             <div class="card timetable-card timetable__card-prL pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">12:05</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
                     <p class="card-text card__text-bold">Lachesis Biosciences Ltd.</p>
                 </div>
             </div>
@@ -205,7 +194,6 @@
             <div class="card timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">12:05</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">Cerecin Pte. Ltd.</p>
                 </div>
             </div>
@@ -217,12 +205,10 @@
     <div class='row timetable__list'>
 
         <div class='col'>
-            <a class='' href='#'>
+            <a class='' href='/presenting-companies/42'>
             <div class="card timetable-card timetable__card-prL pr_timetable-white border-bottom">
                 <div class="card-body">
-                    <h5 class="card-title">12:25</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
-                    <p class="card-text card__text-bold">available</p>
+                    <p class="card-text card__text-bold">Bionic Vision Technologies</p>
                 </div>
             </div>
             </a>
@@ -234,7 +220,6 @@
             <div class="card timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">12:25</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">AlzProtect</p>
                 </div>
             </div>
@@ -283,7 +268,6 @@
             <div class="card timetable-card timetable__card-prL pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">13:30</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
                     <p class="card-text card__text-bold">STALICLA S.A.</p>
                 </div>
             </div>
@@ -296,7 +280,6 @@
             <div class="card row presenters__track-c timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">13:30</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">Paradromics Inc.</p>
                 </div>
             </div>
@@ -305,7 +288,6 @@
             <div class="card row presenters__track-c timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">13:40</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">ProNeurogen, Inc.</p>
                 </div>
             </div>
@@ -322,7 +304,6 @@
             <div class="card timetable-card timetable__card-prL pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">13:50</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
                     <p class="card-text card__text-bold">BIOS Health</p>
                 </div>
             </div>
@@ -336,7 +317,6 @@
             <div class="card row presenters__track-c timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">13:50</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">Ischemix, Inc.</p>
                 </div>
             </div>
@@ -345,7 +325,6 @@
             <div class="card row presenters__track-c timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">14:00</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">Clarigent Health</p>
                 </div>
             </div>
@@ -362,7 +341,6 @@
             <div class="card timetable-card timetable__card-prL pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">14:10</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
                     <p class="card-text card__text-bold">Metys Pharmaceuticals AG</p>
                 </div>
             </div>
@@ -375,7 +353,6 @@
             <div class="card row presenters__track-c timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">14:10</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">Newronika S.p.A.</p>
                 </div>
             </div>
@@ -384,7 +361,6 @@
             <div class="card row presenters__track-c timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">14:20</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">Neuroscience Trials Australia</p>
                 </div>
             </div>
@@ -401,7 +377,6 @@
             <div class="card timetable-card timetable__card-prL pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">14:30</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
                     <p class="card-text card__text-bold">ProMIS™ Neurosciences, Inc.<br />[TSX:PMN.TO] [OTCQB: ARFXF]</p>
                 </div>
             </div>
@@ -414,7 +389,6 @@
             <div class="card row presenters__track-c timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">14:30</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">Allen Institute</p>
                 </div>
             </div>
@@ -424,7 +398,6 @@
             <div class="card row presenters__track-c timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">14:40</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">Acumen Pharmaceuticals, Inc.</p>
                 </div>
             </div>
@@ -441,7 +414,6 @@
             <div class="card timetable-card timetable__card-prL pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">14:50</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
                     <p class="card-text card__text-bold">Antisense Therapeutics Ltd.<br /> [ASX:ANP] [OTC:ATHJY]</p>
                 </div>
             </div>
@@ -454,7 +426,6 @@
             <div class="card row presenters__track-c timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">14:50</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">Gismo Therapeutics, Inc.</p>
                 </div>
             </div>
@@ -463,7 +434,6 @@
             <div class="card row presenters__track-c timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">15:00</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">Cenna Biosciences, Inc.</p>
                 </div>
             </div>
@@ -479,7 +449,6 @@
             <div class="card timetable-card timetable__card-prL pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">15:10</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Regimental</h6>
                     <p class="card-text card__text-bold">EIP Pharma, Inc.</p>
                 </div>
             </div>
@@ -491,7 +460,6 @@
             <div class="card row presenters__track-c timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">15:10</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">Keystone Bio, Inc.</p>
                 </div>
             </div>
@@ -500,7 +468,6 @@
             <div class="card row presenters__track-c timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">15:20</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">Vincere Biosciences, Inc.</p>
                 </div>
             </div>
@@ -553,7 +520,6 @@
             <div class="card timetable-card timetable__card-prL pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">15:45</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Commandants</h6>
                     <p class="card-text card__text-bold">Cortexyme, Inc. <br /> [NASDAQ: CRTX]</p>
                 </div>
             </div>
@@ -566,7 +532,6 @@
             <div class="card timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">15:45</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">[ TBA ...]</p>
                 </div>
             </div>
@@ -582,7 +547,6 @@
             <div class="card timetable-card timetable__card-prL pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">16:05</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Commandants</h6>
                     <p class="card-text card__text-bold">Oryzon Genomics S.A. <br /> [NASDAQ: ORY]</p>
                 </div>
             </div>
@@ -594,7 +558,6 @@
             <div class="card row presenters__track-c timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">16:05</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">Cordance Medical, Inc.</p>
                 </div>
             </div>
@@ -603,7 +566,6 @@
             <div class="card row presenters__track-c timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">16:15</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">NeuroThera</p>
                 </div>
             </div>
@@ -620,7 +582,6 @@
             <div class="card timetable-card timetable__card-prL pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">16:25</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Commandants</h6>
                     <p class="card-text card__text-bold">Actinogen Medical Ltd. <br /> [ASX: ACW]</p>
                 </div>
             </div>
@@ -632,7 +593,6 @@
             <div class="card row presenters__track-c timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">16:25</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">Arviat Pharmaceuticals, Inc.</p>
                 </div>
             </div>
@@ -641,7 +601,6 @@
             <div class="card row presenters__track-c timetable-card timetable__card-prR pr_timetable-white border-bottom">
                 <div class="card-body">
                     <h5 class="card-title">16:35</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">Room Heritage</h6>
                     <p class="card-text card__text-bold">[Available]</p>
                 </div>
             </div>

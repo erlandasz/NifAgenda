@@ -1,7 +1,7 @@
 @import "variables";
 
 .main-content {
-    max-width: 760px;
+    max-width: 768px;
     padding-top: 0 !important;
 }
 
@@ -46,10 +46,11 @@ body {
 
 .timetable__card-prL {
     background-color: $color__card-prL;
-    // color: white;
+    color: black !important;
 
     &:hover {
         background-color: lighten($color: $color__card-prL, $amount: 15%);
+        color: white !important;
     }
 }
 
@@ -139,6 +140,9 @@ body {
 .timetable__dark-purple {
     background-color: $color__darkPurple !important;
 }
+.timetable__keynote {
+    background-color: #ae3e97 !important;
+}
 .timetable__dark-purple h5 {
     color: white;
 }
@@ -169,5 +173,13 @@ body {
     color: white;
 }
 #id01 :hover {
-    background-color: lighten($color:#410f57, $amount: 25%)
+    background-color: lighten($color: #410f57, $amount: 25%);
+}
+
+.sticky-search-box {
+    position: sticky;
+    z-index: 100;
+    top: 2rem;
+    right: 2rem;
+    left: 2rem;
 }

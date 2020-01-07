@@ -20,7 +20,7 @@
             </div>
             <div class="col-md-8">
                 <div class="card-body">
-                    <h5 class="card-title">NeuroRx</h5>
+                    <h5 class="card-title" style='text-transform:capitalize;'>NeuroRx</h5>
                     <p class="card-text">
                         NeuroRx, Inc. is a clinical stage, small molecule pharmaceutical company developing novel 
                         therapeutics for the treatment of central nervous system disorders.  The company is built upon 30 years of basic science 
@@ -50,7 +50,7 @@
             </div>
             <div class="col-md-8">
                 <div class="card-body">
-                    <h5 class="card-title">​BIOPARTNER</h5>
+                    <h5 class="card-title" style='text-transform:capitalize;'>​BIOPARTNER</h5>
                     <p class="card-text">
                         ​BioPartner is an independent, government-accredited trade organisation, 
                         promoting international partnering for trade, investment and collaborations with UK Life Science companies. 
@@ -73,7 +73,7 @@
             </div>
             <div class="col-md-8">
                 <div class="card-body">
-                    <h5 class="card-title">BIOTECHGATE</h5>
+                    <h5 class="card-title" style='text-transform:capitalize;'>BIOTECHGATE</h5>
                     <p class="card-text">
                         Biotechgate is a global, comprehensive, life science database covering the Biotech, Pharma and Medtech industries. 
                         There are currently over 36,000 company profiles on the Biotechgate database. Biotechgate is commonly used to find product pipelines, 
@@ -95,7 +95,7 @@
             </div>
             <div class="col-md-8">
                 <div class="card-body">
-                    <h5 class="card-title">CITIGATE DEWE ROGERSON</h5>
+                    <h5 class="card-title" style='text-transform:capitalize;'>CITIGATE DEWE ROGERSON</h5>
                     <p class="card-text">
 ​Citigate Dewe Rogerson is one of the world’s leading strategic communications consultancies. 
 Our Life Sciences team has established a reputation for excellence spanning financial, corporate and scientific communications; this has enabled us to become trusted advisors and to build a broad portfolio including some of the most innovative and exciting international life sciences companies. Our clients are at all stages of development, from start-up to multinationals, and our activities are focused on delivering campaigns that support corporate objectives. As a result, we have been involved in major corporate transactions and events in the life sciences sector over the past decade such as IPOs, other public and private fundraisings, and M&As.
@@ -118,7 +118,7 @@ Recent IPO transactions: ABIVAX (Euronext Paris - €60m), OSE Pharma (Euronext 
             </div>
             <div class="col-md-8">
                 <div class="card-body">
-                    <h5 class="card-title">​EDISON GROUP</h5>
+                    <h5 class="card-title" style='text-transform:capitalize;'>​EDISON GROUP</h5>
                     <p class="card-text">
                         Edison is an international advisory firm with around 450 corporate clients and 110 people working from offices in London, New York, 
                         Frankfurt, Sydney and Wellington. The team consists of 80 analysts, investment and logistics professionals with experience in capital markets, 
@@ -140,7 +140,7 @@ Recent IPO transactions: ABIVAX (Euronext Paris - €60m), OSE Pharma (Euronext 
             </div>
             <div class="col-md-8">
                 <div class="card-body">
-                    <h5 class="card-title">​​FREEMIND GROUP</h5>
+                    <h5 class="card-title" style='text-transform:capitalize;'>​​FREEMIND GROUP</h5>
                     <p class="card-text">
                         FreeMind is a consulting group whose goal is to assist in maximizing potential to receive funding from non-dilutive sources. 
                         Established in 1999, FreeMind is the largest consulting group of its kind working with academics and Industry alike. 
@@ -170,7 +170,7 @@ Recent IPO transactions: ABIVAX (Euronext Paris - €60m), OSE Pharma (Euronext 
             </div>
             <div class="col-md-8">
                 <div class="card-body">
-                    <h5 class="card-title">​​INSTINCTIF PARTNERS</h5>
+                    <h5 class="card-title" style='text-transform:capitalize;'>​​INSTINCTIF PARTNERS</h5>
                     <p class="card-text">
                         ​Instinctif Partners is an international business communications consultancy. With a track record of delivering truly creative programmes, 
                         the Life Sciences practice focuses on enhancing the value proposition for companies seeking investment, partnerships or customers. Our core skill is 
@@ -196,7 +196,7 @@ Recent IPO transactions: ABIVAX (Euronext Paris - €60m), OSE Pharma (Euronext 
             </div>
             <div class="col-md-8">
                 <div class="card-body">
-                    <h5 class="card-title">​​ONTARIO BIOSCIENCE INNOVATION ORGANIZATION</h5>
+                    <h5 class="card-title" style='text-transform:capitalize;'>​​ONTARIO BIOSCIENCE INNOVATION ORGANIZATION</h5>
                     <p class="card-text">
                         The Ontario Bioscience Innovation Organization (OBIO®) founded in 2009, is a not-for-proﬁt, membership based organization engaged in strategy,
                          programming, policy development and advocacy to further the commercialization of Ontario’s human health science companies positioning Ontario as 
@@ -218,7 +218,7 @@ Recent IPO transactions: ABIVAX (Euronext Paris - €60m), OSE Pharma (Euronext 
             </div>
             <div class="col-md-8">
                 <div class="card-body">
-                    <h5 class="card-title">​​PLATTFORM LIFE SCIENCES</h5>
+                    <h5 class="card-title" style='text-transform:capitalize;'>​​PLATTFORM LIFE SCIENCES</h5>
                     <p class="card-text">
                         The Life Sciences-Series - Launched in 2014 four issues of the Life Sciences-Series appear annually. 
                         Based on the three pillars – technology, financing, investment – the issues combine current topics of 
@@ -241,7 +241,7 @@ Recent IPO transactions: ABIVAX (Euronext Paris - €60m), OSE Pharma (Euronext 
             </div>
             <div class="col-md-8">
                 <div class="card-body">
-                    <h5 class="card-title">​​SWISS BIOTECH</h5>
+                    <h5 class="card-title" style='text-transform:capitalize;'>​​SWISS BIOTECH</h5>
                     <p class="card-text">
                         Swiss Biotech unites the four leading biotech regions of Switzerland (BioAlps, BaselArea, Biopolo Ticino and Greater Zurich Area).
                          The regions have early on combined efforts with the SWX Swiss Exchange which holds a leading position in terms of life-science listings and services.
@@ -271,7 +271,7 @@ Recent IPO transactions: ABIVAX (Euronext Paris - €60m), OSE Pharma (Euronext 
             </div>
             <div class="col-md-8">
                 <div class="card-body">
-                    <h5 class="card-title">​​​TIBEREND STRATEGIC ADVISORS, INC.</h5>
+                    <h5 class="card-title" '>​​​TIBEREND STRATEGIC ADVISORS, INC.</h5>
                     <p class="card-text">
                         ​Tiberend Strategic Advisors, Inc. is a corporate communications firm providing media strategy and execution for life science companies – 
                         biotech (therapeutics), medical devices and diagnostics. We work with both public and private emerging growth companies:

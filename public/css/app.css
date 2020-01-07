@@ -74,7 +74,11 @@
 .person__card-info {
   position: -webkit-sticky;
   position: sticky;
-  top: 50px;
+  top: 85px;
+  color: black !important;
+}
+
+.person__card-info {
   color: black !important;
 }
 
@@ -163,11 +167,6 @@
   text-align: center;
 }
 
-.pr_timetable-white h5,
-.pr_timetable-white p {
-  color: white !important;
-}
-
 .pr_timetable-white h6 {
   color: #d9d9d9 !important;
 }
@@ -209,7 +208,7 @@
 }
 
 .main-content {
-  max-width: 760px;
+  max-width: 768px;
   padding-top: 0 !important;
 }
 
@@ -256,19 +255,25 @@ body {
 }
 
 .timetable__card-prL {
-  background-color: #955187;
+  background-color: #c096d6;
+  color: black !important;
 }
 
 .timetable__card-prL:hover {
-  background-color: #b77bab;
+  background-color: #e1cdeb;
+  color: white !important;
+}
+
+.timetable__card-prL p :hover {
+  color: white !important;
 }
 
 .timetable__card-prR {
-  background-color: #1d4995;
+  background-color: #b0bded;
 }
 
 .timetable__card-prR:hover {
-  background-color: #2968d5;
+  background-color: #eef1fb;
   text-decoration: none !important;
 }
 
@@ -360,6 +365,10 @@ body {
   background-color: #410f57 !important;
 }
 
+.timetable__keynote {
+  background-color: #ae3e97 !important;
+}
+
 .timetable__dark-purple h5 {
   color: white;
 }
@@ -369,11 +378,11 @@ body {
 }
 
 .timetable_lightPink {
-  background-color: #fef5f9 !important;
+  background-color: #b0bded !important;
 }
 
 .timetable_lightPink {
-  background-color: #f0e5f1 !important;
+  background-color: #c096d6 !important;
 }
 
 .timetable__card-breakfast {
@@ -398,6 +407,15 @@ body {
   background-color: #9222c4;
 }
 
+.sticky-search-box {
+  position: -webkit-sticky;
+  position: sticky;
+  z-index: 100;
+  top: 2rem;
+  right: 2rem;
+  left: 2rem;
+}
+
 .container-background {
   background-image: url(/images/sachs_background.jpg?21dd923ec4918d1e2b494671616c30b9);
   background-size: cover;
@@ -415,7 +433,7 @@ body {
 .card-img-sticky {
   position: -webkit-sticky;
   position: sticky;
-  top: 50px;
+  top: 75px;
   border-radius: 10%;
 }
 
@@ -425,5 +443,9 @@ body {
 
 .banner-container {
   padding-top: 25px;
+}
+
+.dropdown-icon {
+  color: blue;
 }
 

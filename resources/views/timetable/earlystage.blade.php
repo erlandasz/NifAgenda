@@ -2,7 +2,11 @@
     <div class="card timetable-card timetable__card-panel timetable_lightPinkSub" data-toggle='collapse' data-target='#collapseEarly' aria-expanded="true" aria-controls="collapseEarly">
         <div class="card-body">
             <h5 class="card-title">12:05</h5>
-            <h6 class="card-subtitle mb-2 text-muted">Room Commandants</h6>
+            <h6 class="card-subtitle mb-2 text-muted">Room Commandants
+                <svg class='dropdown-icon mr-4 align-middle' style="width:30px;height:30px;float:right;" viewBox="0 0 24 24">
+                    <path fill="#000000" d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
+                </svg>
+            </h6>
             <p class="card-text"><b>Early Stage Innovation Panel</b></p>
         </div>
     </div>

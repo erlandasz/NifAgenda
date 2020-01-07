@@ -4,6 +4,15 @@
 
 
 @section('content')
+    <div class="row sticky-search-box" style=''>
+        <div class="col-12 mt-4" >
+            <div id="custom-search-input">
+                <div class="input-group">
+                    <input id="search" name="search" type="text" class="form-control" placeholder="Search" />
+                </div>
+            </div>
+        </div>
+    </div>
     @forelse($presenters as $presenter)
         <div class="card mb-3">
             <div class="row no-gutters">
@@ -66,4 +75,41 @@
         @empty
         <p> no presenters </p>
     @endforelse
+    
+
+    <script>
+
+
+        $(document).ready(function() {
+           $( "#search" ).autocomplete({
+        
+               source: function(request, response) {
+                   $.ajax({
+                   url: "{{url('autocomplete')}}",
+                   data: {
+                           term : request.term
+                    },
+                   dataType: "json",
+                   success: function(data){
+                      var resp = $.map(data,function(obj){
+                           return {
+                               label: obj.name,
+                               id: obj.id,
+                               value: obj.name
+                           }
+                      }); 
+                      response(resp);
+                   },
+                   
+                   });
+               },
+               select:function(event, ui){
+                   window.location.href = 'presenting-companies/' + ui.item.id
+               },
+               
+           minLength: 1
+        });
+       });
+        
+       </script>   
 @endsection

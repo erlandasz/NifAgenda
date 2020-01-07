@@ -7,7 +7,7 @@
     <div class="card mb-3">
         <div class="row no-gutters">
             <div class="col-md-4 border-right">
-                <img src="/images/presenters/{{$presenter->logo}}/logo.png" class="card-img card-img-sticky mt-4 presenter__img" alt="No Logo Found">
+                <img src="/images/presenters/{{$presenter->logo}}/logo.png" class="card-img  mt-4 presenter__img" alt="No Logo Found">
                     @if($presenter->address)
                         <p class='presenter__left-text'><span class='presenter__left-title'>ADDRESS</span><br />
                         <span class='presenter__left-subtitle'>{!! $presenter->address !!}</span></p>
@@ -43,7 +43,7 @@
             </div>
             <div class="col-md-8">
                 <div class="card-body">
-                    <div class='person__card-info non-opaque-person'>
+                    <div class='person__card-info2 non-opaque-person'>
                         <h5 class="card-title person__card-company">{{ $presenter->name }}</h5>
                     </div>
                     <p class="card-text">

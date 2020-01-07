@@ -44,8 +44,8 @@
 
             <a href='/pr-timetable' class='col-1' style='background-color: #410f57;'>
                 <div  style='color:white; display:flex; flex-direction:column;justify-content:center;  align-items:center; color:white;'>
-                    <div style='padding-top:15px;'><p>P<br/>R</p></div>
-                    <div><br/>T<br/>R<br/>A<br/>C<br/>K<br/>S</div>
+                    <div style=' padding-top:85px; '><p>P<br/>R</p></div>
+                    <div '><br/>T<br/>R<br/>A<br/>C<br/>K<br/>S</div>
                     <div><br/>A<br/>&<br/>B</div>
                 </div>
             </a>
@@ -79,6 +79,15 @@
         </div>
                 @component('timetable.coffee2')
                 @endcomponent
+
+                <a href='/pr-timetable'>
+                <div class="card timetable-card " style='background-color: #410f57; color:white;' >
+                    <div class="card-body">
+                        <h5 class="card-title" style='color:white !important;'>15:45</h5>
+                        <p class="card-text"><b>PR TRAKCS E & F</b></p>
+                    </div>
+                </div>
+                </a>
 
                 @component('timetable.roundtable')
                 @endcomponent
